@@ -1,0 +1,728 @@
+﻿identifier,score,category,Domain Analysis For,Google PageRank,cPR Score,Domain Authority,Page Authority,Trust Flow,Trust Metric,Global Rank,Alexa USA Rank,Alexa Reach Rank,Spam Score,External Backlinks,Referring Domains,EDU Backlinks,EDU Domains,GOV Backlinks,GOV Domains,PR Quality,Canonical URL,Topic,Topic Value,Indexed URLs,Citation Flow
+addictinginfo.com,29.5,Left,addictinginfo.com,5,5.5,63,38,39,39,571942,298897,522671,2,247114,3671,92,16,0,0,Very Strong,addictinginfo.com/,News/Media Industry,39,40369,45
+advocate.com,87.5,Left,advocate.com,7,7.5,82,57,57,57,,,,1,2060747,25100,2611,396,87,23,Very Strong,advocate.com/,Society/Gay  Lesbian  and Bisexual,57,240200,59
+alternet.org,87.5,Left,alternet.org,7,8,85,64,33,33,16488,3691,15740,1,10223279,53956,6430,530,95,32,Very Strong,alternet.org/,Society/Issues,28,362737,50
+bluestatedaily.com,44.5,Left,bluestatedaily.com,3,3.7,38,30,9,9,2482865,594365,2070996,0,13958,323,58,1,0,0,Moderate,bluestatedaily.com/,News/Newspapers,9,20586,26
+boingboing.net,62,Left,boingboing.net,8,8.7,88,73,72,72,5474,1591,4847,1,32364740,83800,20726,523,76,26,Very Strong,boingboing.net/,Arts/Literature,71,866817,66
+carbonated.tv,70,Left,carbonated.tv,6,5.9,66,44,16,16,3558764,,3008074,1,42848,3487,314,20,2,1,Very Strong,carbonated.tv/,Society/Politics,14,122544,39
+americanprogress.org,100,Left,americanprogress.org,7,7.5,82,57,67,67,,,,1,5301903,34133,5421,603,2760,127,Very Strong,americanprogress.org/,Society/Politics,66,3227769,62
+chicagoreader.com,80,Left,chicagoreader.com,6,6.8,73,53,58,58,61647,13174,50554,1,2783445,17839,3975,169,73,12,Very Strong,chicagoreader.com/,News/Alternative,56,2892086,57
+cnn.com,100,Left,cnn.com,9,9.5,95,80,87,87,,,,1,352482223,681475,1287934,4248,2065788,838,Very Strong,cnn.com/,Arts/Television,77,10966338,86
+commondreams.org,87.5,Left,commondreams.org,7,7.8,84,61,69,69,18487,4312,14729,1,9840709,40074,13872,492,93,19,Very Strong,commondreams.org/,News/Breaking News,68,578924,69
+cosmopolitan.com,95,Left,cosmopolitan.com,8,8.3,,,,,1744,893,1294,1,,,,,,,,cosmopolitan.com/,,,,
+counterpunch.org,80,Left,counterpunch.org,7,7.5,79,60,68,68,39580,12792,35459,0,5560949,31458,5144,399,26,12,Very Strong,counterpunch.org/,News/Media Industry,67,424180,67
+crooksandliars.com,82.5,Left,crooksandliars.com,7,7.6,78,62,60,60,21526,4385,21316,1,5177914,16354,2576,117,27,9,Very Strong,crooksandliars.com/,News/Media Industry,60,660170,65
+thedailybeast.com,100,Left,thedailybeast.com,8,8.5,92,65,48,48,1514,346,1204,1,20608673,124164,18627,851,3029,101,Very Strong,thedailybeast.com/,News/Breaking News,38,698253,72
+dailydot.com,90,Left,dailydot.com,8,8.1,88,62,36,36,5505,1674,4033,4,3182140,47800,2097,345,53,15,Very Strong,dailydot.com/,Computers/News and Media,29,301932,62
+dailykos.com,52,Left,dailykos.com,7,7.9,81,66,46,46,,,,1,14322831,51671,11963,525,206,55,Very Strong,dailykos.com/,Society/Politics,44,436217,48
+dctribune.org,32,Left,dctribune.org,3,3.4,34,29,16,16,153956,30682,145173,4,36815,180,0,0,0,0,Moderate,dctribune.org/,News/Media Industry,16,5321,25
+deadspin.com,90,Left,deadspin.com,8,8.1,84,66,51,51,,,,1,7978727,40725,9524,205,5,1,Very Strong,deadspin.com/,Sports/Resources,51,714694,62
+deadstate.org,100,Left,deadstate.org,5,5.5,57,44,19,19,107941,25363,84681,1,29583,2092,9,2,0,0,Very Strong,deadstate.org/,Computers/Data Formats,16,39910,41
+democracynow.org,82.5,Left,democracynow.org,7,8,84,64,75,75,19882,4759,17338,0,8647840,39734,9935,512,109,17,Very Strong,democracynow.org/,Arts/Radio,73,218596,68
+elitedaily.com,92.5,Left,elitedaily.com,7,8,87,62,37,37,5407,1801,4054,1,3737121,38315,1021,210,34,10,Very Strong,elitedaily.com/,Arts/Music,31,236847,63
+esquire.com,100,Left,esquire.com,8,8.1,89,61,69,69,2594,1011,1924,1,7311078,73303,3624,421,77,22,Very Strong,esquire.com/,Society/People,68,626542,66
+frnewsreport.com,70,Left,frnewsreport.com,1,1.4,13,13,4,4,7988205,,6972965,0,36,8,0,0,0,0,Very Weak,frnewsreport.com/,Science/Science in Society,4,309,10
+gizmodo.com,75,Left,gizmodo.com,8,9.1,93,75,60,60,630,178,529,1,33109681,192871,42224,1098,920,94,Very Strong,gizmodo.com/,Home/Consumer Information,56,2048625,74
+good.is,70,Left,good.is,7,7.5,80,59,62,62,25471,6430,19258,1,3249010,31177,5234,371,2275,22,Very Strong,good.is/,News/Magazines and E-zines,62,115772,52
+gq.com,82.5,Left,gq.com,8,8.2,,,,,4144,1117,3436,1,,,,,,,,gq.com/,,,,
+theguardiansofdemocracy.com,57.5,Left,theguardiansofdemocracy.com,4,3.9,40,33,8,8,308222,72743,251922,1,6337,316,1,1,0,0,Moderate,theguardiansofdemocracy.com/,Society/Religion and Spirituality,8,13478,29
+hillreporter.com,100,Left,hillreporter.com,5,5.3,56,42,22,22,59241,11472,52575,1,68057,2124,12,6,3,1,Very Strong,hillreporter.com/,Business/Industrial Goods and Services,20,17268,42
+huffingtonpost.com,87.5,Left,huffingtonpost.com,8,9.1,94,75,68,68,503,208,409,1,142256269,582589,222178,3073,11209,453,Very Strong,huffingtonpost.com/,News,55,5178193,75
+hrc.org,87.5,Left,hrc.org,7,7.3,78,58,70,70,62516,11453,54206,1,1606678,27903,8377,936,565,102,Very Strong,hrc.org/,Society/Gay  Lesbian  and Bisexual,70,822240,59
+inthesetimes.com,100,Left,inthesetimes.com,7,7,72,58,58,58,130745,29233,106697,1,2924477,17755,2375,274,43,8,Very Strong,inthesetimes.com/,Society/Politics,58,270640,54
+jezebel.com,87.5,Left,jezebel.com,8,8.3,86,68,34,34,3396,756,3051,2,7786411,49558,6801,329,22,7,Very Strong,jezebel.com/,Society/People,27,938939,62
+latest.com,39.5,Left,latest.com,5,5.3,58,41,10,10,269868,563693,325863,1,5650,1033,1,1,0,0,Very Strong,latest.com/,Society/Politics,10,32865,30
+lgbtqnation.com,77.5,Left,lgbtqnation.com,6,6.6,73,49,53,53,,,,1,2345889,9294,637,103,20,7,Very Strong,lgbtqnation.com/,Society/Gay  Lesbian  and Bisexual,53,355516,60
+samuel-warde.com,25,Left,samuel-warde.com,5,5.4,56,44,22,22,3351284,,3014669,1,41109,1825,27,6,0,0,Very Strong,samuel-warde.com/,Society/Sexuality,21,36001,33
+mashable.com,62.5,Left,mashable.com,9,9.2,93,77,75,75,,,,1,181873564,228302,34637,1370,2112,155,Very Strong,mashable.com/,Computers/Internet/News and Media,73,3613897,88
+mediaite.com,82.5,Left,mediaite.com,7,7.4,81,56,39,39,6707,1274,5897,1,7310330,31517,733,127,39,8,Very Strong,mediaite.com/,News/Breaking News,37,920142,70
+mediamatters.org,70,Left,mediamatters.org,7,7.9,80,66,65,65,38550,5392,32861,1,13125432,28690,3326,353,69,16,Very Strong,mediamatters.org/,News/Media Industry,65,617613,66
+miaminewtimes.com,100,Left,miaminewtimes.com,7,7.4,82,55,35,35,50965,9990,42369,1,1281449,27150,1404,131,80,9,Very Strong,miaminewtimes.com/,News/Newspapers,32,459716,51
+middleeastmonitor.com,40,Left,middleeastmonitor.com,6,7,80,49,32,32,63508,36302,54708,1,838834,12567,1086,90,396,11,Very Strong,middleeastmonitor.com/,Society/Issues,29,104050,60
+newrepublic.com,100,Left,newrepublic.com,7,7.8,85,60,57,57,20039,4321,14817,1,4364107,50302,9669,640,2508,35,Very Strong,newrepublic.com/,News/Analysis and Opinion,55,333460,65
+nymag.com,75,Left,nymag.com,8,8.7,89,72,51,51,2363,569,1822,1,31015706,129233,14596,779,395,47,Very Strong,nymag.com/,Science/Social Sciences,37,1422852,67
+newyorker.com,100,Left,newyorker.com,8,8.6,92,67,79,79,1904,479,1455,1,23680304,192930,88003,1630,4331,150,Very Strong,newyorker.com/,Arts/Literature,76,1698112,78
+newsweek.com,100,Left,newsweek.com,8,8.6,93,66,71,71,1801,585,1227,1,12628012,156981,194216,1494,5217,201,Very Strong,newsweek.com/,News/Magazines and E-zines,71,675604,75
+onegreenplanet.org,80,Left,onegreenplanet.org,7,7.1,,,,,28225,10059,23502,1,,,,,,,,onegreenplanet.org/,,,,
+palmerreport.com,25,Left,palmerreport.com,5,5.5,60,41,18,18,17401,3265,19404,1,105364,1875,16,5,1,1,Very Strong,palmerreport.com/,Society/People,16,196289,43
+pastemagazine.com,75,Left,pastemagazine.com,7,7.8,86,58,57,57,6169,1984,4589,1,2470270,39250,4354,246,80,17,Very Strong,pastemagazine.com/,Arts/Music,57,366443,53
+people.com,75,Left,people.com,8,8.7,91,70,46,46,1182,289,1004,1,13617759,110397,41894,522,248,54,Very Strong,people.com/,Arts/Entertainment,33,12559688,72
+politicaldig.com,39.5,Left,politicaldig.com,4,4.3,44,36,13,13,704436,417929,800135,0,6919,527,0,0,0,0,Strong,politicaldig.com/,Society/History,12,55738,33
+politicususa.com,77.5,Left,politicususa.com,6,6.7,75,49,22,22,,2400,14362,1,1423731,9808,587,55,29,4,Very Strong,politicususa.com/,Society/Issues,19,272920,54
+queerty.com,77.5,Left,queerty.com,6,6.9,74,53,44,44,20161,4976,19807,1,1388268,10385,236,57,1,1,Very Strong,queerty.com/,Society/Gay  Lesbian  and Bisexual,44,261215,49
+rawstory.com,87.5,Left,rawstory.com,7,8,85,64,59,59,5508,1269,5659,0,6729723,42475,2175,288,54,12,Very Strong,rawstory.com/,News/Headline Links,59,646580,62
+rewire.news,92.5,Left,rewire.news,6,6.5,71,50,52,52,101511,19174,81178,0,1065094,11866,1568,152,81,8,Very Strong,rewire.news/,Health/Reproductive Health,50,125594,61
+salon.com,82.5,Left,salon.com,8,8.6,91,69,70,70,4980,1277,4163,1,17109434,119644,34603,1087,462,65,Very Strong,salon.com/,Arts/Online Writing,69,707657,63
+scarymommy.com,87.5,Left,scarymommy.com,6,7,75,54,60,60,15737,4435,11967,1,1956451,15740,195,50,9,3,Very Strong,scarymommy.com/,Home/Family,60,396780,57
+secondnexus.com,87.5,Left,secondnexus.com,5,5.4,58,42,19,19,41058,11100,33017,0,41725,2289,15,7,0,0,Very Strong,secondnexus.com/,Arts/Radio,18,65461,39
+shareblue.com,34.5,Left,shareblue.com,5,5.9,61,48,24,24,100785,25577,86957,1,309871,2811,8,5,17,1,Very Strong,shareblue.com/,Recreation/Humor,23,33908,53
+slate.com,100,Left,slate.com,8,8.7,92,70,76,76,3129,836,2514,1,20334897,181203,45169,1405,1236,133,Very Strong,slate.com/,Society/Politics,75,1190652,84
+splinternews.com,80,Left,splinternews.com,6,6.9,75,52,29,29,6588,1308,6014,1,3477286,19285,759,173,23,8,Very Strong,splinternews.com/,News/Media Industry,24,123074,58
+talkingpointsmemo.com,87.5,Left,talkingpointsmemo.com,7,7.9,80,66,65,65,7588,1540,6780,1,10667407,36647,8132,330,762,15,Very Strong,talkingpointsmemo.com/,News/Media Industry,65,849585,69
+prospect.org,92.5,Left,prospect.org,7,7.2,74,59,32,32,91391,17546,70381,1,2667103,22755,7385,405,2337,25,Very Strong,prospect.org/,Society/Politics,26,212685,48
+austinchronicle.com,92.5,Left,austinchronicle.com,7,7.1,78,54,61,61,52196,8680,45844,1,7388737,19784,6510,181,124,9,Very Strong,austinchronicle.com/,News/Newspapers,58,2726128,60
+thedailybanter.com,59.5,Left,thedailybanter.com,6,6,65,47,19,19,513874,214364,437111,1,320917,3712,64,12,1,1,Very Strong,thedailybanter.com/,Society/Politics,17,288116,47
+dworkinreport.com,57,Left,dworkinreport.com,3,3.6,38,29,8,8,987478,,818606,0,3278,170,0,0,0,0,Moderate,dworkinreport.com/,Computers/Internet/On the Web,7,184,12
+thegrio.com,100,Left,thegrio.com,7,7.1,74,57,25,25,65702,14353,51842,1,1863338,14781,657,149,112,14,Very Strong,thegrio.com/,Arts/Music,22,121640,57
+theintercept.com,87.5,Left,theintercept.com,8,8.2,88,64,45,45,9331,2534,6977,1,9531003,50114,3758,340,2300,21,Very Strong,theintercept.com/,Society/Activism,36,326711,68
+themarysue.com,75,Left,themarysue.com,7,7.5,85,54,28,28,24641,6547,20202,1,1182393,24387,463,159,11,5,Very Strong,themarysue.com/,Society/People,23,397427,60
+thenation.com,80,Left,thenation.com,7,8,86,62,73,73,19259,3835,14857,1,9525009,62040,18416,807,309,47,Very Strong,thenation.com/,Society/Politics,72,299259,67
+thenewcivilrightsmovement.com,77.5,Left,thenewcivilrightsmovement.com,6,6.6,71,51,25,25,246474,56134,206963,1,463847,6284,869,40,5,1,Very Strong,thenewcivilrightsmovement.com/,Society/Gay  Lesbian  and Bisexual,24,62191,43
+theroot.com,80,Left,theroot.com,7,7.5,82,57,47,47,4807,1193,3961,1,5233180,27749,2852,323,211,14,Very Strong,theroot.com/,News/Magazines and E-zines,46,346718,60
+texasobserver.org,100,Left,texasobserver.org,6,6.6,71,51,41,41,174009,31475,141204,0,1160391,10297,1125,131,88,6,Very Strong,texasobserver.org/,News/Magazines and E-zines,40,65616,51
+theweek.com,100,Left,theweek.com,7,7.9,83,63,60,60,7617,1682,6221,1,4635038,46658,4493,409,104,32,Very Strong,theweek.com/,News/Magazines and E-zines,59,787138,67
+thinkprogress.org,90,Left,thinkprogress.org,8,8.2,84,68,58,58,12301,2494,9264,1,34917240,63952,58730,546,714,62,Very Strong,thinkprogress.org/,Society/Issues,55,771000,72
+truthdig.com,80,Left,truthdig.com,7,7.1,75,57,63,63,50275,13904,43843,1,3651672,18181,2643,171,12,5,Very Strong,truthdig.com/,News/Analysis and Opinion,62,435360,63
+truthout.org,100,Left,truthout.org,7,7.2,76,58,53,53,49389,10548,41570,0,9317431,22147,2849,300,28,10,Very Strong,truthout.org/,Society/Politics,51,347253,58
+uproxx.com,87.5,Left,uproxx.com,7,8,87,62,42,42,5642,1461,4915,0,4272205,39351,1939,121,30,8,Very Strong,uproxx.com/,Arts/Entertainment,40,428050,56
+upworthy.com,80,Left,upworthy.com,7,7.5,81,57,28,28,13081,2901,10631,2,782492,26460,1289,269,64,13,Very Strong,upworthy.com/,Business/Marketing and Advertising,23,95882,51
+vanityfair.com,95,Left,vanityfair.com,8,8.3,90,64,49,49,3807,986,2834,1,7220463,101091,9456,591,110,30,Very Strong,vanityfair.com/,Arts/Design,33,226565,62
+vox.com,100,Left,vox.com,8,8.7,92,69,53,53,1082,282,837,1,19599021,137227,37280,1100,4248,118,Very Strong,vox.com/,Society/Subcultures,40,691277,77
+washingtondailywire.com,29.5,Left,washingtondailywire.com,2,2.2,20,21,6,6,2353931,,1934531,0,642,55,0,0,0,0,Weak,washingtondailywire.com/,Society/Issues,5,1037,13
+washingtonmonthly.com,100,Left,washingtonmonthly.com,7,7.1,74,58,62,62,91750,22571,72762,0,5542448,18692,436273,644,53,19,Very Strong,washingtonmonthly.com/,News/Analysis and Opinion,61,411360,62
+washingtonpress.com,34.5,Left,washingtonpress.com,5,4.9,52,39,16,16,48775,12567,46705,2,120871,826,6,5,0,0,Strong,washingtonpress.com/,Society/Politics,14,8168,35
+washingtonsources.org,7.5,Left,washingtonsources.org,3,3.1,32,25,5,5,5984880,,6251004,1,3468,93,0,0,0,0,Weak,washingtonsources.org/,Science/Science in Society,5,6953,15
+wonkette.com,72.5,Left,wonkette.com,7,7.2,73,61,31,31,47719,13182,49975,1,2672110,11228,429,93,0,0,Very Strong,wonkette.com/,Society/Politics,28,140923,58
+yourblackworld.net,57.5,Left,yourblackworld.net,5,5.7,60,46,14,14,644186,257063,541014,1,81336,2020,30,15,0,0,Very Strong,yourblackworld.net/,Society/Politics,13,10389,24
+abc11.com,95,Left Center,abc11.com,6,7,74,55,46,46,37394,7022,31418,2,388688,13887,779,62,315,27,Very Strong,abc11.com/,News/Media Industry,46,373857,55
+abcnews.go.com,82.5,Left Center,abcnews.go.com,9,9.2,93,77,86,86,1468,352,1130,1,51792643,264312,82998,1839,10477,273,Very Strong,abcnews.go.com/,News,82,1499469,86
+abovethelaw.com,82.5,Left Center,abovethelaw.com,7,7.3,76,60,30,30,25645,4375,23560,0,1846702,16848,4647,245,19,8,Very Strong,abovethelaw.com/,Society/Law,29,49163,43
+aljazeera.com,82.5,Left Center,aljazeera.com,8,8.4,91,64,73,73,,,,1,34664363,110242,37201,1228,5618,136,Very Strong,aljazeera.com/,News,71,596164,81
+adn.com,92.5,Left Center,adn.com,7,7.3,81,55,65,65,35067,6138,31003,2,2909678,28575,3241,245,673,59,Very Strong,adn.com/,News/Newspapers,64,758218,65
+timesunion.com,100,Left Center,timesunion.com,7,7.5,81,58,61,61,30782,5718,28091,1,2828040,38010,9688,385,5778,57,Very Strong,timesunion.com/,News/Newspapers,60,1111963,62
+ohio.com,87.5,Left Center,ohio.com,7,7.2,77,56,57,57,98556,19062,86594,1,1387199,19862,3618,201,34352,40,Very Strong,ohio.com/,News/Newspapers,56,335713,49
+amny.com,92.5,Left Center,amny.com,6,6.8,75,51,44,44,57228,10599,44818,1,1725230,14744,6912,101,339,13,Very Strong,amny.com/,News/Newspapers,43,190702,51
+americamagazine.org,80,Left Center,americamagazine.org,6,6.8,72,54,54,54,,4814,18173,1,796371,13137,4227,272,3195,10,Very Strong,americamagazine.org/,Society/Religion and Spirituality,54,98287,52
+aclu.org,80,Left Center,aclu.org,7,8,85,63,76,76,23975,3776,20174,1,12871720,61872,20627,1092,830,127,Very Strong,aclu.org/,Society/Law,75,655441,68
+annistonstar.com,100,Left Center,annistonstar.com,6,6,64,47,50,50,297909,65381,273827,1,170932,5575,1990,82,96,14,Very Strong,annistonstar.com/,News/Newspapers,50,82712,43
+aol.com,90,Left Center,aol.com,9,9.2,94,76,85,85,336,88,349,1,92590565,346375,129641,2410,9161,347,Very Strong,aol.com/,Computers/Internet/On the Web,75,87610981,73
+tucson.com,92.5,Left Center,tucson.com,7,7.2,78,56,48,48,39193,7802,34872,1,3655772,26942,8026,288,2304,55,Very Strong,tucson.com/,News/Newspapers,47,1017474,52
+azdailysun.com,100,Left Center,azdailysun.com,6,6.6,70,53,43,43,144789,32210,127865,1,707480,9636,1595,151,565,38,Very Strong,azdailysun.com/,News/Newspapers,43,94379,41
+arktimes.com,80,Left Center,arktimes.com,6,6.4,69,50,48,48,125792,26029,112758,1,1028957,9350,740,68,45,10,Very Strong,arktimes.com/,News/Newspapers,47,1308025,49
+citizen-times.com,92.5,Left Center,citizen-times.com,6,6.8,73,52,56,56,69316,12144,61872,0,665250,14985,2645,141,3256,41,Very Strong,citizen-times.com/,News/Newspapers,55,1107378,60
+atlantablackstar.com,82.5,Left Center,atlantablackstar.com,7,7.1,77,55,23,23,46957,10823,41761,1,337016,11442,527,138,61,6,Very Strong,atlantablackstar.com/,Sports/Track and Field,19,831702,51
+ajc.com,100,Left Center,ajc.com,8,8.1,89,61,69,69,5805,1205,4771,1,14364031,75467,17381,551,2993,105,Very Strong,ajc.com/,News/Newspapers,68,1134918,68
+theatlantic.com,92.5,Left Center,theatlantic.com,8,8.6,92,68,79,79,1914,528,1360,1,44693162,265964,223245,2187,5520,244,Very Strong,theatlantic.com/,News/Magazines and E-zines,76,864992,87
+statesman.com,100,Left Center,statesman.com,7,7.7,85,57,62,62,28751,4468,24515,1,4063733,34175,6341,285,888,53,Very Strong,statesman.com/,News/Newspapers,61,589396,54
+axios.com,87.5,Left Center,axios.com,7,7.3,82,54,51,51,4664,946,3844,1,4516777,39062,4247,229,558,38,Very Strong,axios.com/,Business/Marketing and Advertising,41,104038,70
+baltimoresun.com,100,Left Center,baltimoresun.com,8,8.1,89,61,70,70,16289,2695,13206,1,18292110,75242,37680,648,6430,118,Very Strong,baltimoresun.com/,News/Newspapers,69,3026900,61
+bangordailynews.com,100,Left Center,bangordailynews.com,7,7.5,80,59,55,55,38832,7434,34801,1,2145690,27146,11370,246,996,58,Very Strong,bangordailynews.com/,News/Newspapers,53,1284654,60
+battlecreekenquirer.com,100,Left Center,battlecreekenquirer.com,6,6,66,46,26,26,394074,105492,338276,1,202508,5444,1521,68,332,10,Very Strong,battlecreekenquirer.com/,Recreation/Food,24,1743427,48
+bbc.com,95,Left Center,bbc.com,8,9,95,72,84,84,92,75,81,1,101360273,416498,867751,3289,48452,841,Very Strong,bbc.com/,Arts/Television,69,6438211,87
+berkeleyside.com,92.5,Left Center,berkeleyside.com,6,6.5,,,,,86575,18338,75778,0,,,,,,,,berkeleyside.com/,,,,
+berkshireeagle.com,100,Left Center,berkshireeagle.com,6,6.2,66,49,53,53,164600,38229,137676,1,599620,9907,1337,131,395,15,Very Strong,berkshireeagle.com/,News/Newspapers,52,445239,53
+bloomberg.com,95,Left Center,bloomberg.com,8,9,95,72,84,84,563,213,461,1,104253544,413246,145399,2666,47283,628,Very Strong,bloomberg.com/,Business/News and Media,82,6457796,91
+bostonglobe.com,100,Left Center,bostonglobe.com,8,8.3,89,65,63,63,5394,1053,4624,1,21084085,119790,61443,999,3550,176,Very Strong,bostonglobe.com/,News/Newspapers,56,895371,72
+bgr.com,100,Left Center,bgr.com,8,8.3,91,63,38,38,4278,1121,3272,0,8002629,44436,1901,214,46,20,Very Strong,bgr.com/,Society/People,30,272943,58
+brookings.edu,87.5,Left Center,brookings.edu,7,7.9,89,58,71,71,,,,1,11986969,73059,76987,1351,4999,284,Very Strong,brookings.edu/,Society/Politics,71,764918,66
+buffalonews.com,92.5,Left Center,buffalonews.com,7,7.3,78,58,37,37,26811,5050,24603,0,3698719,34881,21246,325,2561,42,Very Strong,buffalonews.com/,News/Newspapers,34,412527,47
+businessinsider.com,100,Left Center,businessinsider.com,8,8.9,93,71,57,57,401,121,352,1,85972753,382866,73347,2066,5680,270,Very Strong,businessinsider.com/,Business/Hospitality,37,7409204,86
+bustle.com,92.5,Left Center,bustle.com,8,8.2,91,60,44,44,1529,564,1070,1,7031983,71185,6833,498,108,30,Very Strong,bustle.com/,Society/Activism,38,460552,68
+capitalgazette.com,100,Left Center,capitalgazette.com,6,6.4,69,49,50,50,148038,28097,126852,1,1390631,13377,8355,111,915,25,Very Strong,capitalgazette.com/,News/Newspapers,50,955721,46
+cbc.ca,100,Left Center,cbc.ca,8,8.7,93,69,84,84,1094,,882,2,67447553,217496,23910,1182,11716,174,Very Strong,cbc.ca/,Arts/Television,77,2484892,81
+cbsnews.com,95,Left Center,cbsnews.com,8,8.8,94,69,71,71,1097,268,843,1,50643121,258751,75213,1995,7567,306,Very Strong,cbsnews.com/,News,60,3066697,88
+wvgazettemail.com,92.5,Left Center,wvgazettemail.com,6,6.8,75,50,27,27,108740,24441,94971,1,855074,11091,1061,132,3746,22,Very Strong,wvgazettemail.com/,Recreation/Travel,24,88453,49
+charlotteobserver.com,100,Left Center,charlotteobserver.com,7,7.6,85,56,63,63,25342,5331,20221,1,3599705,45225,10375,375,4275,70,Very Strong,charlotteobserver.com/,News/Newspapers,61,1131534,67
+chicago.suntimes.com,92.5,Left Center,chicago.suntimes.com,8,8.3,89,64,40,40,15777,2996,12353,0,2757550,31401,4879,212,1237,32,Very Strong,chicago.suntimes.com/,Society/Philanthropy,32,106703,58
+cnbc.com,87.5,Left Center,cnbc.com,8,8.7,93,69,69,69,523,138,419,1,56602169,264227,54572,1517,4802,279,Very Strong,cnbc.com/,Home/Personal Finance,61,2201243,92
+cjr.org,100,Left Center,cjr.org,7,7,75,55,64,64,55791,11780,44220,0,2512294,25620,8180,557,121,20,Very Strong,cjr.org/,News/Media Industry,64,104590,59
+commonwealthfund.org,87.5,Left Center,commonwealthfund.org,6,6.6,73,49,65,65,132803,28309,114860,1,1098913,14561,255278,368,2534,101,Very Strong,commonwealthfund.org/,Society/Issues,61,199897,54
+crosscut.com,100,Left Center,crosscut.com,6,6.4,66,53,33,33,172939,31983,144451,1,417578,7405,3047,81,1333,18,Very Strong,crosscut.com/,Society/Issues,26,102468,51
+ctvnews.ca,100,Left Center,ctvnews.ca,7,8,90,59,65,65,3961,,3261,1,8678774,78610,4494,337,6479,44,Very Strong,ctvnews.ca/,News,58,1446005,72
+deadline.com,87.5,Left Center,deadline.com,8,8.4,90,66,44,44,2787,654,2226,0,15452826,72472,4738,315,73,19,Very Strong,deadline.com/,Arts/Movies,35,1228344,63
+delawareonline.com,100,Left Center,delawareonline.com,7,7.1,77,54,59,59,46502,8400,43820,2,2979383,22838,7218,193,1229,46,Very Strong,delawareonline.com/,News/Newspapers,59,1293350,64
+democratandchronicle.com,100,Left Center,democratandchronicle.com,7,7.1,78,54,57,57,33021,5852,28217,1,2225268,24456,7183,240,514,32,Very Strong,democratandchronicle.com/,News/Newspapers,55,1110929,65
+denverpost.com,100,Left Center,denverpost.com,8,8.2,90,62,71,71,,459,2438,1,18247795,88340,13079,610,4780,122,Very Strong,denverpost.com/,News/Newspapers,69,3053169,73
+freep.com,100,Left Center,freep.com,7,8,88,61,66,66,7459,1266,6657,1,7819998,68449,18677,564,1148,75,Very Strong,freep.com/,News/Newspapers,66,1409318,68
+digg.com,70,Left Center,digg.com,9,9.3,92,81,78,78,2698,890,2561,1,1171802123,359874,19638234,2524,2650148,522,Very Strong,digg.com/,Society/Subcultures,76,592100012,73
+diversityinc.com,70,Left Center,diversityinc.com,6,6.3,66,51,59,59,,15410,57666,1,301820,6093,1340,319,73,30,Very Strong,diversityinc.com/,Society/Work,59,528011,46
+earthjustice.org,87.5,Left Center,earthjustice.org,6,6.9,70,58,59,59,163557,33357,146241,1,1047521,11028,1074,216,56,24,Very Strong,earthjustice.org/,Society/Issues,59,2471919,49
+eastbaytimes.com,100,Left Center,eastbaytimes.com,6,6.9,79,49,62,62,52303,9300,44809,1,3248833,32802,6369,280,4364,49,Very Strong,eastbaytimes.com/,News/Newspapers,59,2057999,69
+elpasotimes.com,100,Left Center,elpasotimes.com,6,6.7,73,51,56,56,119454,32583,104244,0,3600016,13007,1328,142,1113,26,Very Strong,elpasotimes.com/,News/Newspapers,56,746429,56
+engadget.com,100,Left Center,engadget.com,8,8.9,94,71,76,76,657,382,566,1,61192919,197006,33356,960,417,88,Very Strong,engadget.com/,Home/Consumer Information,71,3194089,86
+fastcompany.com,87.5,Left Center,fastcompany.com,8,8.5,93,65,64,64,2754,851,2064,1,15845517,174745,33835,1285,3034,146,Very Strong,fastcompany.com/,Business/E-Commerce,54,703802,69
+fivethirtyeight.com,100,Left Center,fivethirtyeight.com,8,8.2,84,67,57,57,2006,403,1821,1,8555251,53891,16864,626,244,51,Very Strong,fivethirtyeight.com/,News,45,3893046,69
+fresnobee.com,100,Left Center,fresnobee.com,7,7,77,53,60,60,66493,11970,56681,1,2505258,21701,4306,217,4387,31,Very Strong,fresnobee.com/,News/Newspapers,58,874990,60
+greensboro.com,100,Left Center,greensboro.com,6,6.4,71,47,29,29,82578,15169,70024,1,505131,8875,3573,125,747,20,Very Strong,greensboro.com/,News/Media Industry,25,1479906,36
+glamour.com,95,Left Center,glamour.com,8,8.2,90,62,67,67,11412,3516,8705,1,5115127,49351,2277,315,61,26,Very Strong,glamour.com/,Society/People,66,932702,66
+globalcitizen.org,82.5,Left Center,globalcitizen.org,6,6.9,76,51,42,42,37844,10321,31463,1,214820,12433,634,144,22,13,Very Strong,globalcitizen.org/,Arts/Music,41,169702,53
+pri.org,100,Left Center,pri.org,7,7.6,,,,,31572,9061,23878,1,,,,,,,,pri.org/,,,,
+governing.com,100,Left Center,governing.com,6,6.9,74,53,58,58,60061,10639,47404,3,669011,20404,3649,392,1094,154,Very Strong,governing.com/,News/Analysis and Opinion,57,804484,59
+grist.org,100,Left Center,grist.org,7,7.7,80,63,42,42,52650,10410,42249,5,5699330,33790,54294,474,384,55,Very Strong,grist.org/,Science/Environment,39,102856,51
+harpers.org,82.5,Left Center,harpers.org,7,7.2,,,,,89875,25436,78431,1,,,,,,,,harpers.org/,,,,
+courant.com,87.5,Left Center,courant.com,7,7.6,83,57,63,63,32428,5210,26351,2,4452734,44101,15488,411,1889,91,Very Strong,courant.com/,News/Newspapers,62,2551247,54
+health.com,75,Left Center,health.com,8,8.2,88,63,48,48,8016,2472,6161,2,3766159,58687,13771,393,133,40,Very Strong,health.com/,Health/News and Media,46,1334781,62
+healthyway.com,75,Left Center,healthyway.com,5,5.1,56,39,20,20,264331,84292,227028,1,32385,1870,328,10,0,0,Very Strong,healthyway.com/,Health/Weight Loss,18,77135,38
+heavy.com,100,Left Center,heavy.com,7,8,88,61,35,35,,266,818,0,2621079,33206,635,139,31,17,Very Strong,heavy.com/,Arts/Entertainment,34,197193,48
+hcn.org,100,Left Center,hcn.org,6,6.6,71,51,54,54,123100,28717,105390,1,2360735,11105,4704,211,156,27,Very Strong,hcn.org/,News/Newspapers,54,139858,49
+highline.huffingtonpost.com,87.5,Left Center,highline.huffingtonpost.com,8,8.5,94,64,37,37,503,208,409,1,454098,6568,131,52,7,4,Very Strong,highline.huffingtonpost.com/,News/Media Industry,30,1294,54
+hollywoodreporter.com,87.5,Left Center,hollywoodreporter.com,8,8.5,92,65,70,70,1834,576,1363,1,16852819,128903,15554,670,258,47,Very Strong,hollywoodreporter.com/,News/Newspapers,69,907146,75
+staradvertiser.com,100,Left Center,staradvertiser.com,7,7,78,52,59,59,33289,5921,32225,1,9277059,23920,7795,197,755,39,Very Strong,staradvertiser.com/,News/Newspapers,59,1141871,62
+hrw.org,100,Left Center,hrw.org,8,8.2,87,64,80,80,21834,7480,18382,1,12128850,71646,23091,1168,8178,164,Very Strong,hrw.org/,Society/Issues,78,420464,71
+indystar.com,100,Left Center,indystar.com,7,7.5,81,57,63,63,18867,3314,15896,11,5448094,40744,53220,326,1508,53,Very Strong,indystar.com/,News/Newspapers,62,1281888,68
+inquisitr.com,87.5,Left Center,inquisitr.com,7,8,89,59,34,34,13083,3473,10015,1,3110768,52625,1908,297,116,19,Very Strong,inquisitr.com/,Science/Social Sciences,27,814121,65
+ibtimes.com,82.5,Left Center,ibtimes.com,8,8.3,91,62,64,64,25177,6058,19147,1,5998592,90439,12310,744,2643,95,Very Strong,ibtimes.com/,Business/News and Media,64,964724,66
+inverse.com,100,Left Center,inverse.com,7,7.3,81,54,31,31,5373,1625,3930,1,3659274,25917,3144,276,98,15,Very Strong,inverse.com/,Arts/Comics,24,88450,60
+jacksonfreepress.com,92.5,Left Center,jacksonfreepress.com,6,5.9,64,46,26,26,506737,117185,426253,1,223709,5638,3190,75,63,4,Very Strong,jacksonfreepress.com/,Society/Issues,23,612659,49
+kansascity.com,100,Left Center,kansascity.com,7,8,89,59,66,66,16126,2904,13033,1,6114193,57140,15028,466,772,74,Very Strong,kansascity.com/,News/Newspapers,66,1053413,67
+kmov.com,87.5,Left Center,kmov.com,6,6.8,74,52,55,55,39932,6291,35513,1,508244,13071,1007,80,272,26,Very Strong,kmov.com/,Arts/Television,55,184734,46
+koco.com,82.5,Left Center,koco.com,6,6.5,71,49,46,46,82952,13355,73301,2,243531,7867,141,39,119,13,Very Strong,koco.com/,Arts/Television,46,215393,44
+kotaku.com,100,Left Center,kotaku.com,8,8.7,91,70,41,41,1294,358,1041,1,10067160,65012,2377,281,10,6,Very Strong,kotaku.com/,Games/Video Games/News and Reviews,31,869525,66
+kuow.org,100,Left Center,kuow.org,6,6.7,70,54,53,53,111706,20521,88216,1,419358,10800,10118,174,1418,37,Very Strong,kuow.org/,Arts/Radio,52,588455,51
+latimes.com,100,Left Center,latimes.com,8,8.9,93,71,85,85,1593,308,1212,2,133103154,330631,234654,2065,26167,330,Very Strong,latimes.com/,News/Newspapers,82,7428852,89
+lawfareblog.com,100,Left Center,lawfareblog.com,6,6.8,74,52,40,40,43810,10102,35717,1,2017389,14933,6426,199,107,16,Very Strong,lawfareblog.com/,Society/Politics,35,60114,57
+kentucky.com,100,Left Center,kentucky.com,7,7.5,83,55,58,58,45312,9558,37041,1,1942407,30000,4980,261,274,46,Very Strong,kentucky.com/,News/Newspapers,58,1284601,61
+mcclatchydc.com,95,Left Center,mcclatchydc.com,7,7.3,82,54,60,60,50221,17264,38265,2,3230817,30489,6021,284,741,44,Very Strong,mcclatchydc.com/,News,60,976133,66
+metro.us,75,Left Center,metro.us,7,7.2,82,52,33,33,49064,15652,37981,6,1369947,21164,1515,181,102,15,Very Strong,metro.us/,News/Newspapers,31,702955,54
+metro.co.uk,82.5,Left Center,metro.co.uk,8,8.7,93,69,60,60,3637,,2861,0,10267621,114778,11019,432,167,46,Very Strong,metro.co.uk/,News/Newspapers,59,1382384,68
+miamiherald.com,100,Left Center,miamiherald.com,8,8.2,90,61,72,72,8134,1369,6061,1,13980739,86666,22271,637,4383,136,Very Strong,miamiherald.com/,News/Newspapers,69,1265008,75
+mic.com,87.5,Left Center,mic.com,7,7.9,83,64,28,28,13997,3806,10711,1,1761653,47115,9252,421,79,19,Very Strong,mic.com/,Society/Issues,22,694102,58
+jsonline.com,100,Left Center,jsonline.com,7,7.6,82,59,66,66,13833,2581,12423,1,12289732,56879,21951,480,3792,84,Very Strong,jsonline.com/,News/Newspapers,65,1389904,68
+startribune.com,100,Left Center,startribune.com,7,8,87,62,74,74,7340,1340,6448,1,10843185,86739,31174,689,6268,117,Very Strong,startribune.com/,News/Newspapers,72,1333520,72
+minnpost.com,100,Left Center,minnpost.com,6,6.8,72,53,50,50,111039,22713,89423,1,967445,17860,4340,224,433,34,Very Strong,minnpost.com/,News/Media Industry,49,362796,48
+mongabay.com,100,Left Center,mongabay.com,7,7.8,89,56,47,47,30073,13271,24858,0,3137467,22168,8394,396,132,42,Very Strong,mongabay.com/,Science/News and Media,44,800361,61
+motherjones.com,87.5,Left Center,motherjones.com,8,8.3,88,65,70,70,10526,2069,8033,1,10844031,77397,15346,777,400,65,Very Strong,motherjones.com/,News/Magazines and E-zines,69,1424390,72
+mnn.com,87.5,Left Center,mnn.com,7,7.7,84,59,63,63,14577,4563,11801,1,1915336,52041,3811,490,248,67,Very Strong,mnn.com/,Science/Environment,62,517465,64
+msn.com,100,Left Center,msn.com,9,9.3,95,78,81,81,51,60,46,3,201653696,451224,235843,3092,14954,565,Very Strong,msn.com/,Computers/Internet/On the Web,76,16130481,73
+naplesnews.com,100,Left Center,naplesnews.com,6,7,76,53,59,59,96244,20484,79003,0,1567585,20032,1381,181,294,21,Very Strong,naplesnews.com/,News/Newspapers,58,489596,60
+nrdc.org,80,Left Center,nrdc.org,7,7.7,84,59,76,76,43212,9041,35586,1,5865560,44649,7359,732,3255,153,Very Strong,nrdc.org/,Society/Issues,75,137542,62
+nbcnews.com,100,Left Center,nbcnews.com,8,8.6,92,67,78,78,766,174,581,1,56827794,200038,168424,1525,6028,244,Very Strong,nbcnews.com/,News,73,1573167,83
+necn.com,95,Left Center,necn.com,7,7.1,80,51,54,54,78663,13296,65288,1,1455491,15703,2631,181,837,31,Very Strong,necn.com/,Arts/Television,53,428068,60
+kfor.com,77.5,Left Center,kfor.com,7,7.1,,,,,44839,7706,41226,0,,,,,,,,kfor.com/,,,,
+newsday.com,87.5,Left Center,newsday.com,8,8.2,,,,,13438,2686,11611,1,,,,,,,,newsday.com/,,,,
+newser.com,80,Left Center,newser.com,7,7.4,82,55,56,56,16875,3423,17419,2,3426962,23401,654,167,42,17,Very Strong,newser.com/,News/Headline Links,56,580068,68
+newsone.com,72.5,Left Center,newsone.com,7,7.2,78,56,21,21,82881,19146,66395,0,2989307,11426,418,104,54,9,Very Strong,newsone.com/,Society/Issues,19,113281,52
+newsy.com,100,Left Center,newsy.com,6,6.4,68,50,27,27,173656,49179,147165,1,665346,7443,506,77,18,6,Very Strong,newsy.com/,News/Newspapers,25,812458,54
+nydailynews.com,75,Left Center,nydailynews.com,8,8.6,93,67,75,75,3468,703,2818,2,18582300,166616,20440,926,6717,119,Very Strong,nydailynews.com/,News/Newspapers,74,1823232,69
+npr.org,100,Left Center,npr.org,8,8.9,93,72,84,84,685,148,521,1,157223345,357579,502442,2672,16741,413,Very Strong,npr.org/,Arts/Radio,80,5152327,83
+nytimes.com,100,Left Center,nytimes.com,9,9.5,95,80,91,91,117,29,107,1,378089000,965650,2262442,4982,111989,1060,Very Strong,nytimes.com/,News,87,15671098,95
+ozy.com,100,Left Center,ozy.com,6,6.9,76,52,36,36,40569,9309,33155,1,646238,15515,2404,256,85,19,Very Strong,ozy.com/,News/Headline Links,31,360081,58
+psmag.com,100,Left Center,psmag.com,7,7.3,80,56,35,35,33902,7037,25709,1,1586703,29592,6933,450,147,34,Very Strong,psmag.com/,Society/Politics,27,109461,59
+pbs.org,100,Left Center,pbs.org,8,8.7,92,70,91,91,1742,384,1490,1,139949483,238676,510828,2866,20265,481,Very Strong,pbs.org/,Arts/Television,87,1232226,81
+philly.com,100,Left Center,philly.com,8,8.4,90,65,70,70,8364,1526,6796,1,10105289,93949,35841,788,7924,114,Very Strong,philly.com/,News/Newspapers,69,2847520,71
+inquirer.net,90,Left Center,inquirer.net,8,8.1,89,61,56,56,,,,5,5243268,41338,5334,336,16969,124,Very Strong,inquirer.net/,News/Newspapers,55,1232369,60
+phoenixnewtimes.com,100,Left Center,phoenixnewtimes.com,7,7.2,79,54,57,57,64892,14656,54043,1,731678,22046,1768,128,232,21,Very Strong,phoenixnewtimes.com/,News/Newspapers,57,468749,49
+pluralist.com,62.5,Left Center,pluralist.com,4,4.5,48,35,14,14,63561,11080,51869,1,20133,899,7,2,0,0,Strong,pluralist.com/,Society/Religion and Spirituality,13,7521,32
+propublica.org,100,Left Center,propublica.org,7,7.8,85,60,45,45,19727,3832,16816,1,6419217,49272,8121,593,1251,61,Very Strong,propublica.org/,News,34,1302684,65
+providencejournal.com,92.5,Left Center,providencejournal.com,6,6.9,77,51,54,54,,,,1,1013585,22858,13662,277,1461,45,Very Strong,providencejournal.com/,News/Newspapers,54,1220640,55
+pri.org,100,Left Center,pri.org,7,7.6,,,,,31572,9061,23878,1,,,,,,,,pri.org/,,,,
+qz.com,100,Left Center,qz.com,8,8.6,90,69,43,43,2784,1016,1987,1,14210998,139026,26224,994,3194,128,Very Strong,qz.com/,Computers/Multimedia,30,180976,54
+newsobserver.com,100,Left Center,newsobserver.com,7,7.6,82,58,65,65,26474,4805,21543,1,5802177,43680,13414,388,7526,68,Very Strong,newsobserver.com/,News/Newspapers,65,1109307,65
+therealnews.com,100,Left Center,therealnews.com,6,6.9,70,58,54,54,100815,32870,89224,1,1915667,9319,4722,122,15,6,Very Strong,therealnews.com/,News/Alternative,54,169190,51
+revealnews.org,100,Left Center,revealnews.org,6,6.6,72,50,30,30,119448,35145,95266,1,2054759,11445,1235,141,83,12,Very Strong,revealnews.org/,Society/Politics,25,2216229,53
+roanoke.com,100,Left Center,roanoke.com,6,6.9,75,53,30,30,48660,8565,45258,1,1192744,18403,3949,220,512,36,Very Strong,roanoke.com/,Regional/North America,27,1253670,35
+rollingstone.com,90,Left Center,rollingstone.com,8,8.5,91,67,75,75,2145,626,1728,1,28255939,135566,29902,874,366,62,Very Strong,rollingstone.com/,Arts/Music,75,881516,73
+sacbee.com,100,Left Center,sacbee.com,7,7.8,85,60,67,67,13965,2565,11218,1,8992862,69967,35758,567,5868,88,Very Strong,sacbee.com/,News/Newspapers,66,1144841,71
+sltrib.com,100,Left Center,sltrib.com,7,7.6,84,57,64,64,18712,3474,15859,1,14390508,47885,7208,379,4396,66,Very Strong,sltrib.com/,News/Newspapers,63,777010,67
+mysanantonio.com,100,Left Center,mysanantonio.com,7,7.5,82,57,62,62,32950,6081,33222,1,7120310,37043,59214,313,1670,55,Very Strong,mysanantonio.com/,News/Newspapers,61,1323546,64
+sfchronicle.com,100,Left Center,sfchronicle.com,7,7.4,82,55,61,61,10132,1635,8275,1,15247028,46304,27715,408,3817,72,Very Strong,sfchronicle.com/,News/Newspapers,53,319631,70
+sfexaminer.com,100,Left Center,sfexaminer.com,6,6.9,76,52,44,44,82592,14574,69741,0,1040807,19166,2728,154,1381,18,Very Strong,sfexaminer.com/,News/Newspapers,38,967797,57
+mercurynews.com,100,Left Center,mercurynews.com,8,8.3,92,61,70,70,8085,1518,6499,1,15983075,97396,21208,681,9376,94,Very Strong,mercurynews.com/,News/Newspapers,67,2551098,74
+santafenewmexican.com,100,Left Center,santafenewmexican.com,6,6.5,70,50,37,37,139344,26640,119031,1,1163855,13406,5723,179,489,41,Very Strong,santafenewmexican.com/,News/Newspapers,34,41473,37
+seattlepi.com,100,Left Center,seattlepi.com,7,7.8,84,60,60,60,14836,3898,12887,1,5000861,44223,4161,444,4429,49,Very Strong,seattlepi.com/,News/Newspapers,59,1009374,52
+seattletimes.com,100,Left Center,seattletimes.com,8,8.3,91,63,66,66,5552,1244,4778,1,15293809,95637,48788,764,14052,135,Very Strong,seattletimes.com/,News/Newspapers,62,1477528,74
+sfgate.com,100,Left Center,sfgate.com,8,8.7,92,69,76,76,1474,332,1268,1,29088120,178086,38459,1111,34459,163,Very Strong,sfgate.com/,News/Newspapers,73,3308128,72
+sojo.net,92.5,Left Center,sojo.net,6,6.7,67,57,58,58,137754,28496,119971,1,1173433,9841,1657,258,26,3,Very Strong,sojo.net/,Society/Religion and Spirituality,58,1512802,51
+splcenter.org,87.5,Left Center,splcenter.org,7,7.3,79,56,69,69,,3055,18415,1,2620078,29918,4457,635,247,60,Very Strong,splcenter.org/,Society/Organizations,67,79760,62
+nj.com,100,Left Center,nj.com,8,8.3,88,65,71,71,4775,886,4273,1,21555834,84092,44995,563,29896,121,Very Strong,nj.com/,News/Newspapers,66,3887790,72
+silive.com,100,Left Center,silive.com,7,7,76,54,53,53,60321,9743,56661,2,1780703,18720,913,140,1956,25,Very Strong,silive.com/,News/Media Industry,52,2525228,53
+stltoday.com,100,Left Center,stltoday.com,7,7.8,84,60,35,35,11768,2074,11576,1,72559493,54001,8964,451,1208,68,Very Strong,stltoday.com/,Society/Politics,27,1711647,49
+twincities.com,100,Left Center,twincities.com,7,7.5,82,57,59,59,26249,4799,22160,1,3392849,35825,10668,301,2276,46,Very Strong,twincities.com/,News/Newspapers,58,1763932,60
+tabletmag.com,92.5,Left Center,tabletmag.com,7,7,76,54,36,36,55060,14610,45679,0,1292029,17866,1683,190,12,6,Very Strong,tabletmag.com/,Society/Philanthropy,29,228379,58
+techcrunch.com,92.5,Left Center,techcrunch.com,9,9.2,94,77,76,76,1016,389,811,1,81234600,261450,52284,1193,3524,169,Very Strong,techcrunch.com/,Computers/News and Media,74,1481408,88
+texasmonthly.com,100,Left Center,texasmonthly.com,7,7.2,81,53,62,62,42429,7100,34171,1,1386334,19145,11827,158,129,12,Very Strong,texasmonthly.com/,News/Magazines and E-zines,58,103572,54
+tampabay.com,100,Left Center,tampabay.com,7,7.9,87,60,66,66,13579,2575,11356,2,7525124,60143,10049,401,1014,75,Very Strong,tampabay.com/,News/Newspapers,65,1006228,63
+courier-journal.com,100,Left Center,courier-journal.com,7,7.3,81,55,61,61,34676,6092,28221,1,3042825,30990,4440,274,799,45,Very Strong,courier-journal.com/,News/Newspapers,61,997751,69
+lehighvalleylive.com,100,Left Center,lehighvalleylive.com,7,7.1,79,52,50,50,56404,10771,54658,1,402320,14974,1678,104,688,20,Very Strong,lehighvalleylive.com/,News/Newspapers,48,2738534,51
+forward.com,87.5,Left Center,forward.com,7,7.5,78,60,58,58,35033,9741,27389,1,4227945,26896,8009,337,2220,16,Very Strong,forward.com/,Society/Religion and Spirituality,58,412639,62
+theguardian.com,100,Left Center,theguardian.com,8,9.1,95,73,84,84,137,104,129,1,246239567,725898,570016,3990,17364,890,Very Strong,theguardian.com/,News,72,7172777,93
+heraldnet.com,100,Left Center,heraldnet.com,6,6.9,74,53,56,56,79504,17685,65464,0,919537,16056,2376,158,3359,37,Very Strong,heraldnet.com/,News/Newspapers,56,936051,57
+thehill.com,92.5,Left Center,thehill.com,8,8.6,91,69,72,72,1061,234,860,1,26430485,113108,335319,831,18990,194,Very Strong,thehill.com/,News/Newspapers,69,933978,89
+independent.co.uk,87.5,Left Center,independent.co.uk,8,8.9,94,70,83,83,994,834,735,1,39927263,330374,127783,1856,4928,286,Very Strong,independent.co.uk/,News/Newspapers,82,3030156,85
+lohud.com,100,Left Center,lohud.com,7,7.1,78,54,56,56,45627,9296,38597,0,1948948,21706,4699,184,2229,28,Very Strong,lohud.com/,News/Newspapers,55,1065604,65
+newstimes.com,100,Left Center,newstimes.com,6,6.6,72,50,54,54,87473,16307,84841,1,525240,11938,100074,138,254,19,Very Strong,newstimes.com/,News/Newspapers,54,706146,53
+thenewstribune.com,100,Left Center,thenewstribune.com,7,7.1,77,54,59,59,63812,12273,53050,1,3278641,26014,2855,231,3425,45,Very Strong,thenewstribune.com/,News/Newspapers,57,1043679,59
+theguardian.com,100,Left Center,theguardian.com,8,9.1,95,73,84,84,137,104,129,1,246239567,725898,570016,3990,17364,890,Very Strong,theguardian.com/,News,72,7172777,93
+theolympian.com,100,Left Center,theolympian.com,6,6.5,70,50,53,53,125685,21229,112949,1,744705,11752,1277,133,1017,29,Very Strong,theolympian.com/,News/Newspapers,53,995878,52
+palmbeachpost.com,100,Left Center,palmbeachpost.com,7,7.6,85,55,58,58,45231,7048,38327,1,4381694,34810,9911,236,1384,36,Very Strong,palmbeachpost.com/,News/Newspapers,57,816897,53
+pennlive.com,100,Left Center,pennlive.com,7,7.5,82,57,57,57,20319,3652,18585,1,1544013,34180,5071,266,1618,37,Very Strong,pennlive.com/,News/Media Industry,56,3800187,60
+cleveland.com,95,Left Center,cleveland.com,8,8.1,87,63,68,68,10633,1977,9462,1,6261726,68584,49512,526,6197,98,Very Strong,cleveland.com/,News/Newspapers,65,3438660,70
+pressdemocrat.com,100,Left Center,pressdemocrat.com,6,7,76,53,57,57,40019,5945,37268,1,3737470,22771,4632,148,2084,27,Very Strong,pressdemocrat.com/,News/Newspapers,56,799305,59
+northjersey.com,92.5,Left Center,northjersey.com,7,7.5,81,58,62,62,31692,5000,25958,4,4885650,35384,8500,299,1790,69,Very Strong,northjersey.com/,News/Newspapers,61,1187553,67
+theringer.com,70,Left Center,theringer.com,7,7.3,79,56,33,33,3207,784,3003,1,1068457,19354,741,110,8,3,Very Strong,theringer.com/,Society/Subcultures,29,145513,60
+thestate.com,100,Left Center,thestate.com,7,7.2,80,54,60,60,38860,7151,31877,1,1481466,30467,9484,243,1978,45,Very Strong,thestate.com/,News/Newspapers,59,909524,60
+thestranger.com,80,Left Center,thestranger.com,7,7.3,,,,,18003,3411,16350,1,,,,,,,,thestranger.com/,,,,
+theverge.com,100,Left Center,theverge.com,8,8.7,93,68,75,75,546,185,443,1,38545774,196709,33898,1036,2022,132,Very Strong,theverge.com/,Home/Consumer Information,73,2192017,88
+pilotonline.com,100,Left Center,pilotonline.com,7,7.2,76,57,58,58,38402,7811,31621,1,2776880,24544,16391,249,1064,53,Very Strong,pilotonline.com/,News/Media Industry,55,1163395,55
+time.com,95,Left Center,time.com,8,9.1,93,76,64,64,1365,494,1028,1,37614660,376239,170653,2873,6145,411,Very Strong,time.com/,News/Magazines and E-zines,58,1029952,76
+timesofisrael.com,100,Left Center,timesofisrael.com,7,7.8,87,58,56,56,8260,3142,6803,1,8604001,57057,195371,412,3412,64,Very Strong,timesofisrael.com/,Society/Religion and Spirituality,54,1612604,77
+nola.com,100,Left Center,nola.com,7,8,86,62,69,69,11822,2569,10740,4,5748911,57388,84869,483,5004,90,Very Strong,nola.com/,News/Newspapers,67,3170273,68
+thestar.com,100,Left Center,thestar.com,8,8.5,93,64,73,73,5211,,4247,1,38061434,116973,6687,634,5998,90,Very Strong,thestar.com/,News/Newspapers,72,990666,76
+usnews.com,95,Left Center,usnews.com,8,8.6,93,66,69,69,903,206,803,1,41392531,216021,884276,3048,5364,338,Very Strong,usnews.com/,News/Magazines and E-zines,61,1517753,66
+usatoday.com,100,Left Center,usatoday.com,8,9,94,73,84,84,456,100,363,1,123266116,396686,201234,2760,15854,444,Very Strong,usatoday.com/,News,80,5519288,92
+vice.com,100,Left Center,vice.com,8,8.7,93,68,59,59,,78,122,1,29466919,205788,49597,1053,5610,129,Very Strong,vice.com/,Arts/Design,48,1768085,73
+vulture.com,100,Left Center,vulture.com,7,7.9,88,59,43,43,2185,659,1756,1,8197503,55019,5155,284,49,12,Very Strong,vulture.com/,Arts/Performing Arts,30,891486,64
+washingtonblade.com,87.5,Left Center,washingtonblade.com,6,6.6,73,49,50,50,161987,33778,131742,2,497190,9729,622,123,104,19,Very Strong,washingtonblade.com/,Society/Gay  Lesbian  and Bisexual,50,493149,56
+washingtonpost.com,100,Left Center,washingtonpost.com,8,9.1,94,74,87,87,259,77,239,2,155170787,519656,602866,3285,323996,685,Very Strong,washingtonpost.com/,News/Newspapers,84,8013956,91
+wgntv.com,100,Left Center,wgntv.com,7,7.4,,,,,18399,3755,15209,0,,,,,,,,wgntv.com/,,,,
+wired.com,100,Left Center,wired.com,8,9,94,73,85,85,1524,534,1138,1,57311761,311428,169019,2180,4670,253,Very Strong,wired.com/,Computers/News and Media,80,1360694,87
+wnyc.org,95,Left Center,wnyc.org,7,7.4,79,58,52,52,35820,7859,28205,1,3526710,41848,11602,624,405,48,Very Strong,wnyc.org/,Recreation/Radio,45,884061,58
+yahoo.com,87.5,Left Center,yahoo.com,8,8.9,88,77,95,95,9,8,8,1,1934537872,1538419,9481762,7834,12475250,3299,Very Strong,yahoo.com/,Computers/Internet/On the Web,87,298211898,91
+ydr.com,92.5,Left Center,ydr.com,6,6.6,73,49,52,52,99024,18634,98625,0,1612328,10570,775,101,262,12,Very Strong,ydr.com/,News/Newspapers,52,710467,61
+afp.com,95,Center,afp.com,7,7.9,87,60,74,74,24964,,23677,0,5460572,38057,2577,312,790,63,Very Strong,afp.com/,News/Breaking News,74,362663,59
+democratherald.com,92.5,Center,democratherald.com,6,6.1,64,49,41,41,199283,34677,200200,1,186877,5105,888,91,73,18,Very Strong,democratherald.com/,News/Newspapers,40,78732,40
+americanmilitarynews.com,87.5,Center,americanmilitarynews.com,5,5.8,62,46,24,24,,1317,4923,1,51621,2863,71,10,6,2,Very Strong,americanmilitarynews.com/,Reference/Education,23,77591,44
+azcapitoltimes.com,100,Center,azcapitoltimes.com,6,6.1,63,50,25,25,313368,61414,281179,1,408411,5739,421,43,121,18,Very Strong,azcapitoltimes.com/,Society/Politics,22,306903,47
+apnews.com,95,Center,apnews.com,8,8.3,91,63,53,53,2354,477,1827,1,13055269,79696,22677,618,2270,128,Very Strong,apnews.com/,News/Media Industry,45,2130011,63
+ballotpedia.org,92.5,Center,ballotpedia.org,6,7,72,57,43,43,,1146,6059,1,4441068,26852,6760,422,413,61,Very Strong,ballotpedia.org/,Recreation/Travel,38,116022,43
+bnd.com,100,Center,bnd.com,6,6.6,73,50,52,52,118825,26605,103118,1,496879,11878,830,108,274,25,Very Strong,bnd.com/,News/Newspapers,51,1482959,53
+bigthink.com,87.5,Center,bigthink.com,8,8.3,88,65,36,36,13861,4551,11268,1,2919028,38682,10929,543,108,25,Very Strong,bigthink.com/,Arts/Design,29,347756,57
+bismarcktribune.com,92.5,Center,bismarcktribune.com,6,6.6,69,53,44,44,145565,31468,130011,1,1100277,11659,1785,168,1444,20,Very Strong,bismarcktribune.com/,News/Newspapers,44,128188,44
+capecodtimes.com,92.5,Center,capecodtimes.com,6,6,67,45,33,33,,,,1,867910,6266,1699,95,200,14,Very Strong,capecodtimes.com/,News/Newspapers,28,204044,46
+trib.com,92.5,Center,trib.com,6,6.7,70,54,46,46,143244,34411,129906,1,556365,15026,2724,253,330,33,Very Strong,trib.com/,News/Newspapers,45,4747734,45
+publicintegrity.org,100,Center,publicintegrity.org,6,6.9,73,54,66,66,190067,36698,160509,1,1028703,20068,2302,345,373,37,Very Strong,publicintegrity.org/,Society/Issues,66,165880,52
+opensecrets.org,100,Center,opensecrets.org,7,7.7,80,62,73,73,31305,5027,30507,1,9216196,33375,6521,647,369,25,Very Strong,opensecrets.org/,Society/Issues,70,4262899,71
+cgtn.com,39.5,Center,cgtn.com,6,7,81,48,39,39,14994,,15987,3,971057,15331,2210,244,456,39,Very Strong,cgtn.com/,News,35,609976,55
+csmonitor.com,100,Center,csmonitor.com,8,8.4,92,64,77,77,33152,8027,27380,1,11520443,90365,40547,1233,6732,141,Very Strong,csmonitor.com/,News,75,1640625,71
+concordmonitor.com,100,Center,concordmonitor.com,6,6.6,72,50,53,53,157245,28546,137693,2,1936834,13514,1588,141,1186,24,Very Strong,concordmonitor.com/,News/Newspapers,53,365954,55
+consumerreports.org,100,Center,consumerreports.org,8,8.3,90,63,74,74,3333,741,3265,1,7355489,107655,12375,639,2362,182,Very Strong,consumerreports.org/,Home/Consumer Information,73,628399,68
+cookpolitical.com,87.5,Center,cookpolitical.com,6,6.4,66,53,53,53,270427,51390,246715,1,988439,6554,380,84,4,2,Very Strong,cookpolitical.com/,Recreation/Travel,50,49015,50
+c-span.org,87.5,Center,c-span.org,7,7.9,86,60,76,76,18189,3525,14793,1,6564822,51226,28390,1142,9280,193,Very Strong,c-span.org/,News,70,2160892,70
+daily-journal.com,85,Center,daily-journal.com,5,5.8,62,46,20,20,255252,54183,251038,1,291970,4141,230,48,1557,10,Very Strong,daily-journal.com/,Business,17,11298,23
+dailyjournalonline.com,92.5,Center,dailyjournalonline.com,5,5.9,62,47,36,36,300752,61627,288558,1,427783,3748,245137,54,27,9,Very Strong,dailyjournalonline.com/,News/Newspapers,36,70097,37
+dailyrecord.com,100,Center,dailyrecord.com,6,6.4,69,50,53,53,133779,27600,117677,1,656669,9218,1200,96,244,16,Very Strong,dailyrecord.com/,News/Newspapers,53,1157364,58
+daytondailynews.com,87.5,Center,daytondailynews.com,7,7.1,78,53,57,57,37921,5822,31904,1,2678462,22057,3831,190,1703,45,Very Strong,daytondailynews.com/,News/Newspapers,57,454705,60
+defensenews.com,100,Center,defensenews.com,7,7.2,80,53,58,58,34398,11223,29278,0,2301725,20234,1905,130,1113,46,Very Strong,defensenews.com/,Society/Military,57,3129206,62
+dentonrc.com,92.5,Center,dentonrc.com,6,6,66,46,46,46,144997,26744,137692,1,134113,6011,781,58,40,9,Very Strong,dentonrc.com/,News/Newspapers,46,1017834,38
+desmoinesregister.com,100,Center,desmoinesregister.com,7,7.5,80,58,59,59,25441,4453,21716,1,3705465,37838,12222,318,769,65,Very Strong,desmoinesregister.com/,News/Newspapers,58,1252730,69
+digitaljournal.com,87.5,Center,digitaljournal.com,7,7.8,84,61,35,35,24312,9906,19104,2,37922118,61693,40930,579,431,78,Very Strong,digitaljournal.com/,Arts/Music,26,1327961,64
+eagletribune.com,92.5,Center,eagletribune.com,6,6.4,69,50,27,27,111681,22630,109798,1,876466,10700,1087,121,599,21,Very Strong,eagletribune.com/,Regional/North America,25,548790,34
+goerie.com,100,Center,goerie.com,6,6.6,71,52,53,53,134834,25172,125773,1,604342,11051,3963,111,268,21,Very Strong,goerie.com/,News/Newspapers,52,141544,47
+factcheck.org,100,Center,factcheck.org,7,7.8,80,64,72,72,29164,5665,23082,1,4075892,28734,15401,822,146,36,Very Strong,factcheck.org/,News/Media Industry,72,93830,61
+ft.com,100,Center,ft.com,8,8.8,94,69,80,80,2142,,1967,1,52637214,222750,169410,2006,11920,354,Very Strong,ft.com/,Business/Investing,79,8939352,78
+foreignaffairs.com,87.5,Center,foreignaffairs.com,7,7.2,80,54,51,51,26060,9214,22018,1,2038271,31666,18924,690,1719,77,Very Strong,foreignaffairs.com/,Science/Social Sciences,48,314267,55
+foreignpolicy.com,87.5,Center,foreignpolicy.com,8,8.3,89,65,45,45,15942,5422,12475,0,6543164,64605,21818,819,7525,99,Very Strong,foreignpolicy.com/,Science/Social Sciences,41,1789488,59
+gallup.com,100,Center,gallup.com,7,8,87,61,68,68,12676,3034,14359,1,6178379,90363,21927,1238,1000,115,Very Strong,gallup.com/,Business/Marketing and Advertising,66,426491,72
+govexec.com,87.5,Center,govexec.com,6,6.8,74,51,53,53,61592,15553,61114,1,2020121,14760,2821,205,758,94,Very Strong,govexec.com/,Science/Social Sciences,52,618286,58
+globegazette.com,92.5,Center,globegazette.com,6,6.5,70,51,46,46,138653,27620,140150,1,220700,6761,976,113,58,15,Very Strong,globegazette.com/,News/Newspapers,46,5584860,40
+goodnewsnetwork.org,100,Center,goodnewsnetwork.org,6,6.9,77,50,57,57,39903,10584,35193,1,474096,10124,152,52,1,1,Very Strong,goodnewsnetwork.org/,News/Alternative,57,235343,53
+greenbaypressgazette.com,92.5,Center,greenbaypressgazette.com,6,6.5,71,50,56,56,125062,27261,108052,1,1140193,12073,8020,126,328,21,Very Strong,greenbaypressgazette.com/,News/Newspapers,53,1049000,61
+greenvilleonline.com,100,Center,greenvilleonline.com,6,6.7,72,52,53,53,63790,10994,54901,1,9798654,14497,2761,124,642191,26,Very Strong,greenvilleonline.com/,News/Newspapers,53,1477608,59
+hbr.org,100,Center,hbr.org,8,8.7,91,71,70,70,3938,1490,3165,1,22926958,159324,651320,1747,2498,174,Very Strong,hbr.org/,Business/Management,68,554765,75
+herald-review.com,92.5,Center,herald-review.com,6,6.3,,,,,153383,27896,133803,1,,,,,,,,herald-review.com/,,,,
+idahostatesman.com,100,Center,idahostatesman.com,6,7,76,53,59,59,58989,10530,51086,1,1861628,20060,2482,164,543,34,Very Strong,idahostatesman.com/,News/Newspapers,58,931842,57
+helenair.com,85,Center,helenair.com,6,6.5,68,53,45,45,146291,28419,136990,2,848982,11035,2938,156,551,25,Very Strong,helenair.com/,News/Newspapers,45,116218,42
+ivn.us,87.5,Center,ivn.us,6,6.1,64,49,28,28,422944,92803,342065,1,65589,4389,221,42,21,6,Very Strong,ivn.us/,Society/Politics,28,125112,45
+dailybulletin.com,100,Center,dailybulletin.com,6,6.6,72,50,52,52,170035,35437,146395,1,1456852,9421,3822,79,1308,11,Very Strong,dailybulletin.com/,News/Newspapers,51,984779,54
+investopedia.com,100,Center,investopedia.com,8,8.3,90,64,75,75,713,254,583,1,9729065,125583,12755,1015,524,105,Very Strong,investopedia.com/,Business/Investing,73,330602,79
+jacksonsun.com,87.5,Center,jacksonsun.com,6,6.1,66,47,48,48,469376,102490,389847,0,146489,6035,18385,71,441,15,Very Strong,jacksonsun.com/,News/Newspapers,48,968710,49
+jta.org,100,Center,jta.org,7,7.5,80,58,57,57,,,,1,6717155,19098,1542,225,237,21,Very Strong,jta.org/,Society/Religion and Spirituality,57,176526,53
+knoxnews.com,100,Center,knoxnews.com,7,7.2,78,55,60,60,43966,7207,36877,2,2818394,25035,4978,224,4486,48,Very Strong,knoxnews.com/,News/Newspapers,59,540380,60
+journalstar.com,100,Center,journalstar.com,7,7.1,74,57,52,52,36548,5618,33432,1,7489395,19612,2754,186,997,46,Very Strong,journalstar.com/,News/Newspapers,51,4001343,49
+news-journal.com,95,Center,news-journal.com,6,6.1,65,48,23,23,164703,33349,194679,1,167555,7707,595,84,204,14,Very Strong,news-journal.com/,Games/Video Games/Simulation,20,66897,35
+marketwatch.com,95,Center,marketwatch.com,8,8.6,93,66,76,76,948,242,846,1,41667963,179654,42743,1169,2352,163,Very Strong,marketwatch.com/,Business/News and Media,73,6026549,75
+mcclatchydc.com,95,Center,mcclatchydc.com,7,7.3,82,54,60,60,50221,17264,38265,2,3230817,30489,6021,284,741,44,Very Strong,mcclatchydc.com/,News,60,976133,66
+mentalfloss.com,95,Center,mentalfloss.com,8,8.4,89,66,41,41,3759,1092,2748,2,9192027,64982,15095,545,190,32,Very Strong,mentalfloss.com/,Arts/Illustration,28,285131,65
+military.com,87.5,Center,military.com,7,7.9,85,62,71,71,11370,2387,9716,1,4343720,48739,9824,1174,6164,203,Very Strong,military.com/,Home/Family,68,721389,65
+missoulian.com,92.5,Center,missoulian.com,7,7,74,56,51,51,108775,20458,97844,1,562684,16965,6696,201,506,37,Very Strong,missoulian.com/,News/Media Industry,50,6393170,45
+mlive.com,87.5,Center,mlive.com,7,7.9,85,62,66,66,7474,1368,6595,3,7386452,67108,23860,494,5685,85,Very Strong,mlive.com/,News/Media Industry,62,4745427,66
+mtstandard.com,92.5,Center,mtstandard.com,6,6.3,66,51,47,47,213799,50692,197759,2,7564296,23191,10901,189,264,37,Very Strong,mtstandard.com/,News/Media Industry,47,97086,40
+napavalleyregister.com,87.5,Center,napavalleyregister.com,6,6.9,74,54,44,44,103072,19310,94994,1,321869,12694,2489,159,779,12,Very Strong,napavalleyregister.com/,News/Newspapers,42,161314,45
+nwitimes.com,100,Center,nwitimes.com,7,7.1,77,54,51,51,49071,9283,48656,1,822620,19167,2640,208,2684,27,Very Strong,nwitimes.com/,News/Newspapers,50,6190737,46
+patch.com,100,Center,patch.com,8,8.4,89,66,46,46,,80,376,1,11902320,105828,91724,865,588666,221,Very Strong,patch.com/,News/Media Industry,32,2146336,57
+patheos.com,87.5,Center,patheos.com,7,7.8,87,58,65,65,8341,2238,7286,1,12201846,41204,4923,421,60,14,Very Strong,patheos.com/,Society/Religion and Spirituality,63,2367388,69
+pnj.com,100,Center,pnj.com,6,6.5,71,50,50,50,,,,0,637586,12196,719,98,449,24,Very Strong,pnj.com/,News/Media Industry,48,837703,55
+pewresearch.org,100,Center,pewresearch.org,8,8.3,89,65,75,75,14770,3130,11993,1,64684645,82086,18282,1249,754,123,Very Strong,pewresearch.org/,News/Journalism,71,554451,73
+poconorecord.com,100,Center,poconorecord.com,6,6.2,67,48,50,50,282078,57741,245666,1,318779,7858,3024,94,776,18,Very Strong,poconorecord.com/,News/Media Industry,49,188653,45
+politico.com,100,Center,politico.com,8,8.5,92,66,74,74,1161,249,941,1,35177309,124968,82654,1008,12452,149,Very Strong,politico.com/,News/Media Industry,73,1293004,89
+politifact.com,100,Center,politifact.com,7,7.7,81,61,75,75,11239,2748,8989,1,10248314,43680,9098,830,384,33,Very Strong,politifact.com/,Society/Politics,74,195364,63
+poynter.org,100,Center,poynter.org,7,7.4,79,58,68,68,55504,16416,47796,1,4154684,29530,12523,655,2191,22,Very Strong,poynter.org/,Arts/Illustration,67,882615,64
+project-syndicate.org,87.5,Center,project-syndicate.org,7,7.2,,,,,49742,36908,45368,1,,,,,,,,project-syndicate.org/,,,,
+qctimes.com,100,Center,qctimes.com,6,6.9,72,55,49,49,96440,19139,84035,1,1245395,13202,1985,167,254,35,Very Strong,qctimes.com/,News/Newspapers,48,6111599,44
+rapidcityjournal.com,100,Center,rapidcityjournal.com,6,6.7,70,54,49,49,149201,31412,128691,1,618249,12762,1463,148,768,31,Very Strong,rapidcityjournal.com/,News/Newspapers,48,4236280,44
+recode.net,100,Center,recode.net,8,8.3,89,64,49,49,16157,4145,12333,1,4332437,64225,4041,294,145,33,Very Strong,recode.net/,Computers/Internet/Searching,44,191863,69
+relevantmagazine.com,90,Center,relevantmagazine.com,6,6.6,68,55,27,27,48575,12652,40623,1,603941,10182,529,89,0,0,Very Strong,relevantmagazine.com/,Society/Religion and Spirituality,26,106394,47
+reuters.com,100,Center,reuters.com,9,9.2,95,75,87,87,659,291,544,1,356261969,440621,348034,2434,584713,686,Very Strong,reuters.com/,News,85,16914523,89
+rollcall.com,100,Center,rollcall.com,7,7.2,78,55,61,61,29454,5861,23440,1,8165381,26192,3907,381,3587,50,Very Strong,rollcall.com/,News/Newspapers,59,261381,63
+sandiegouniontribune.com,100,Center,sandiegouniontribune.com,7,7.7,87,55,56,56,20884,3871,17629,1,4763260,57422,18449,476,2843,75,Very Strong,sandiegouniontribune.com/,News/Newspapers,52,2406572,60
+heraldtribune.com,100,Center,heraldtribune.com,6,6.9,74,54,58,58,64625,13086,54703,1,1887777,24876,4039,259,323,29,Very Strong,heraldtribune.com/,News/Newspapers,57,2093523,57
+scotusblog.com,100,Center,scotusblog.com,6,7,75,54,65,65,53299,8412,48342,3,3059341,23483,17599,420,17817,55,Very Strong,scotusblog.com/,Society/Law,65,186681,64
+shareably.net,77.5,Center,shareably.net,6,6.3,69,48,16,16,33551,15884,25446,0,66723,3233,4,2,0,0,Very Strong,shareably.net/,Society/Law,14,48074,36
+siouxcityjournal.com,85,Center,siouxcityjournal.com,6,6.8,71,55,49,49,119973,21767,106371,1,527286,11816,1807,145,253,26,Very Strong,siouxcityjournal.com/,News/Newspapers,48,6015921,42
+snopes.com,87.5,Center,snopes.com,8,8.6,90,69,72,72,3277,881,2598,1,5978446,87508,9299,994,229,80,Very Strong,snopes.com/,Society/Folklore,67,3200890,70
+scmp.com,62,Center,scmp.com,8,8.1,90,60,62,62,3397,2740,2842,1,9993720,89036,387290,951,5460,112,Very Strong,scmp.com/,News/Newspapers,56,1244815,67
+ny1.com,100,Center,ny1.com,6,7,76,53,57,57,58603,13291,54077,3,1377175,18578,2204,151,1447,26,Very Strong,ny1.com/,Business/Arts and Entertainment,56,231755,55
+sctimes.com,100,Center,sctimes.com,6,6.3,69,47,49,49,132724,26241,127181,1,539739,7754,1340,73,228,14,Very Strong,sctimes.com/,News/Newspapers,49,1472605,53
+stripes.com,100,Center,stripes.com,7,7.5,84,55,60,60,32886,7371,26329,1,1376938,30792,7064,276,4647,83,Very Strong,stripes.com/,News/Newspapers,59,597915,62
+statnews.com,100,Center,statnews.com,7,7.1,79,52,44,44,33940,5682,27071,1,1165243,25888,26411,314,496,42,Very Strong,statnews.com/,Society/Politics,33,1946003,66
+statesville.com,92.5,Center,statesville.com,5,5.5,60,42,25,25,441063,105329,401595,0,40719,2856,121,30,99,9,Very Strong,statesville.com/,Business,24,10499,25
+taskandpurpose.com,100,Center,taskandpurpose.com,7,7,77,53,29,29,38753,9488,30883,0,876302,10264,561,78,974,17,Very Strong,taskandpurpose.com/,Society/Politics,26,91539,52
+texastribune.org,100,Center,texastribune.org,7,7.1,77,54,49,49,29197,4734,27489,1,3929903,23368,5249,243,778,35,Very Strong,texastribune.org/,Society/Government,45,736054,67
+auburnpub.com,92.5,Center,auburnpub.com,6,6.3,66,50,44,44,173268,30367,167110,1,428746,7430,884,119,643,16,Very Strong,auburnpub.com/,News/Newspapers,44,103105,40
+baxterbulletin.com,92.5,Center,baxterbulletin.com,5,5.7,63,43,47,47,673885,134828,585541,1,105202,3744,147,36,38,9,Very Strong,baxterbulletin.com/,News/Newspapers,46,1154316,47
+chronicle.com,100,Center,chronicle.com,7,8,83,66,41,41,15184,3000,12296,1,11070206,48880,461395,2422,2581,81,Very Strong,chronicle.com/,Reference/Education,32,153284,47
+theconversation.com,87.5,Center,theconversation.com,8,8.6,89,71,77,77,3604,1960,2743,2,21413776,120038,836028,1727,21982,213,Very Strong,theconversation.com/,News,75,2468977,84
+theday.com,100,Center,theday.com,6,6.5,68,52,53,53,121112,23797,109917,1,4730673,12253,2397,143,441,31,Very Strong,theday.com/,News/Newspapers,52,361729,48
+dailygazette.com,100,Center,dailygazette.com,6,6.6,70,52,34,34,159467,31544,133750,1,402635,9625,2031,76,1055,16,Very Strong,dailygazette.com/,News/Newspapers,33,153030,45
+dailyprogress.com,100,Center,dailyprogress.com,6,6.5,71,50,31,31,96945,17066,85656,1,822405,13494,1946,181,319,20,Very Strong,dailyprogress.com/,News/Newspapers,28,1077241,35
+economist.com,100,Center,economist.com,8,8.7,93,68,72,72,2948,1445,2503,13,29070974,197219,845262,2456,5501,355,Very Strong,economist.com/,News,69,3361020,73
+herald-dispatch.com,100,Center,herald-dispatch.com,6,6.3,68,48,25,25,226978,41407,192799,1,776711,9270,15285,111,257,30,Very Strong,herald-dispatch.com/,Reference/Education,21,141272,35
+heraldsun.com,100,Center,heraldsun.com,6,6.4,69,49,51,51,220055,51751,181445,1,324048,10371,2230,101,1317,22,Very Strong,heraldsun.com/,News/Newspapers,51,398169,53
+themarshallproject.org,100,Center,themarshallproject.org,6,6.3,70,47,45,45,114603,26111,96597,1,628111,8190,930,143,49,19,Very Strong,themarshallproject.org/,Society/Subcultures,39,16760,53
+modbee.com,100,Center,modbee.com,6,6.6,72,50,55,55,89698,19194,75074,1,1437382,13560,2359,129,1474,19,Very Strong,modbee.com/,News/Media Industry,55,1453805,51
+mcall.com,100,Center,mcall.com,7,7.3,81,55,57,57,43381,8056,35199,1,2562689,27391,4456,247,1017,42,Very Strong,mcall.com/,News/Newspapers,57,2546121,52
+pantagraph.com,80,Center,pantagraph.com,6,6.5,70,51,51,51,72433,12341,73727,1,364906,12338,5946,157,212,19,Very Strong,pantagraph.com/,News/Newspapers,51,4988592,42
+postandcourier.com,100,Center,postandcourier.com,6,7,76,53,56,56,47822,9459,38300,1,3446099,27505,11797,243,1346,54,Very Strong,postandcourier.com/,News/Newspapers,55,279414,53
+syracuse.com,95,Center,syracuse.com,7,7.7,83,60,60,60,16418,2768,14634,2,3520663,40099,10869,360,1550,58,Very Strong,syracuse.com/,News/Newspapers,58,1745384,63
+poststar.com,95,Center,poststar.com,6,6.5,68,52,47,47,54869,11842,50490,1,492852,9371,1413,118,579,17,Very Strong,poststar.com/,News/Media Industry,47,134662,42
+cumberlink.com,92.5,Center,cumberlink.com,6,6.3,66,51,47,47,164446,34440,161946,1,889939,6680,1611,122,188,12,Very Strong,cumberlink.com/,News/Newspapers,46,154167,40
+thesouthern.com,85,Center,thesouthern.com,6,6.4,67,51,43,43,199012,46544,181046,1,383314,7650,2851,124,119,16,Very Strong,thesouthern.com/,News/Media Industry,43,126793,42
+mywebtimes.com,100,Center,mywebtimes.com,5,5.6,58,46,40,40,524158,97016,541690,1,82938,3412,347,58,44,7,Very Strong,mywebtimes.com/,Regional/North America,40,61524,42
+thewrap.com,87.5,Center,thewrap.com,7,8,88,60,42,42,6396,1486,4726,1,10138642,46870,2838,186,19,8,Very Strong,thewrap.com/,Arts/Movies,37,765911,74
+magicvalley.com,100,Center,magicvalley.com,6,6.5,68,52,46,46,159699,41613,153368,1,647522,8520,1212,99,255,17,Very Strong,magicvalley.com/,News/Newspapers,46,7977380,41
+upi.com,82.5,Center,upi.com,8,8.2,89,62,69,69,17156,4174,13789,1,17211840,71689,18966,727,4722,112,Very Strong,upi.com/,News/Media Industry,68,3774477,76
+gao.gov,100,Center,gao.gov,7,7.4,80,57,69,69,69197,14260,66968,0,3369081,44176,26549,889,142520,463,Very Strong,gao.gov/,Business/Accounting,69,382057,55
+standard.net,92.5,Center,standard.net,6,6.5,71,50,52,52,118109,20717,124002,1,689335,11241,788,114,945,19,Very Strong,standard.net/,News/Newspapers,52,231919,46
+viralthread.com,82,Center,viralthread.com,6,6.4,72,46,15,15,162172,67655,153845,3,44035,2866,6,4,0,0,Very Strong,viralthread.com/,Society/People,14,87430,35
+voanews.com,100,Center,voanews.com,8,8.2,90,62,68,68,3097,2447,2811,1,22829009,82721,33214,1332,31858,218,Very Strong,voanews.com/,News,65,4483644,70
+c-span.org,87.5,Center,c-span.org,7,7.9,86,60,76,76,18189,3525,14793,1,6564822,51226,28390,1142,9280,193,Very Strong,c-span.org/,News,70,2160892,70
+wtop.com,100,Center,wtop.com,7,7.8,84,60,50,50,15488,3131,12929,1,2219629,42986,3891,263,278572,66,Very Strong,wtop.com/,News/Internet Broadcasts,49,566653,56
+wcfcourier.com,100,Center,wcfcourier.com,6,6.6,69,53,47,47,,,,1,310333,10025,4279,147,117,14,Very Strong,wcfcourier.com/,News/Newspapers,47,3681857,42
+wearethemighty.com,87.5,Center,wearethemighty.com,6,6.3,72,44,25,25,49274,11786,41624,1,150321,3858,166,18,194,7,Very Strong,wearethemighty.com/,Games/Video Games/Simulation,23,45717,46
+madison.com,100,Center,madison.com,7,7.4,81,56,54,54,26621,5039,23491,1,5089267,31474,159025,309,3857,45,Very Strong,madison.com/,News/Newspapers,53,482803,51
+wral.com,87.5,Center,wral.com,7,7.3,79,57,45,45,11884,2243,11038,3,11390342,32256,4539,233,3758,59,Very Strong,wral.com/,News/Weather,40,256141,46
+al.com,100,Right Center,al.com,8,8.2,88,63,65,65,10669,1995,9372,2,6621942,55343,9343,396,4420,75,Very Strong,al.com/,News/Newspapers,61,3544248,67
+abqjournal.com,100,Right Center,abqjournal.com,7,7.1,78,53,59,59,60924,11934,54878,1,1746822,24347,11898,236,691,57,Very Strong,abqjournal.com/,News/Newspapers,58,1681017,58
+arabnews.com,39.5,Right Center,arabnews.com,7,7.4,79,58,55,55,15655,,13956,2,4184495,31281,1882,297,1012,65,Very Strong,arabnews.com/,News/Media Industry,55,540597,55
+azcentral.com,100,Right Center,azcentral.com,8,8.2,89,62,68,68,5404,1395,4172,7,41813343,78362,16062,556,3487,116,Very Strong,azcentral.com/,News/Newspapers,65,1620381,69
+arkansasonline.com,100,Right Center,arkansasonline.com,7,7.2,80,53,29,29,,,,1,1737412,19969,2207,182,1142,35,Very Strong,arkansasonline.com/,News/Newspapers,26,462651,47
+billingsgazette.com,92.5,Right Center,billingsgazette.com,7,7.1,74,57,50,50,90286,18146,81727,1,1021372,19885,4265,232,1305,41,Very Strong,billingsgazette.com/,News/Newspapers,50,4527470,48
+bostonherald.com,82.5,Right Center,bostonherald.com,7,8,87,61,65,65,17949,3804,15629,1,7261825,49396,6885,377,1961,61,Very Strong,bostonherald.com/,News/Newspapers,64,21533905,63
+chicagotribune.com,100,Right Center,chicagotribune.com,8,8.7,93,68,70,70,2960,568,2343,1,24499101,184110,148621,1430,547325,189,Very Strong,chicagotribune.com/,News/Newspapers,62,4452456,67
+christianitytoday.com,100,Right Center,christianitytoday.com,7,7.5,79,59,64,64,21522,5485,17501,1,5859880,33154,8401,475,2229,14,Very Strong,christianitytoday.com/,Society/Religion and Spirituality,63,583209,56
+cincinnati.com,100,Right Center,cincinnati.com,7,7.7,84,58,47,47,21559,5038,17823,1,4158921,37510,4721,313,1418,73,Very Strong,cincinnati.com/,Society/Issues,36,1211801,69
+circa.com,87.5,Right Center,circa.com,6,6.2,65,50,37,37,84986,16964,67565,0,1856536,5580,513,55,10,6,Very Strong,circa.com/,Arts/Television,35,207644,52
+gazette.com,92.5,Right Center,gazette.com,7,7.1,75,57,57,57,54256,7920,52210,1,1223149,20687,6012,168,647,39,Very Strong,gazette.com/,News/Newspapers,56,197264,48
+dispatch.com,100,Right Center,dispatch.com,7,7.5,82,57,62,62,41888,7482,35390,1,3183313,39992,9578,356,4125,79,Very Strong,dispatch.com/,News/Newspapers,62,739648,55
+cfr.org,100,Right Center,cfr.org,7,7.5,82,57,71,71,,,,1,3693141,36544,26634,841,1646,100,Very Strong,cfr.org/,Society/Politics,71,1005451,64
+dailyherald.com,100,Right Center,dailyherald.com,7,7.6,84,57,59,59,30545,5903,25042,2,4184983,35426,8220,338,77093,55,Very Strong,dailyherald.com/,News/Newspapers,59,1106638,54
+dailypress.com,92.5,Right Center,dailypress.com,6,6.8,73,53,55,55,93335,18406,77014,3,1810618,17387,2527,182,1552,40,Very Strong,dailypress.com/,News/Newspapers,54,1645941,46
+dallasnews.com,100,Right Center,dallasnews.com,8,8.2,90,62,60,60,9360,1862,7478,1,10330436,80339,19757,601,1566,95,Very Strong,dallasnews.com/,News/Newspapers,57,1240778,68
+deseretnews.com,100,Right Center,deseretnews.com,7,7.9,88,59,56,56,11734,2129,9863,1,5323425,50811,10233,478,7331,71,Very Strong,deseretnews.com/,News/Newspapers,54,1128944,63
+desertsun.com,100,Right Center,desertsun.com,6,6.7,75,49,48,48,,,,0,1220209,16376,5216,141,991,27,Very Strong,desertsun.com/,News/Newspapers,46,824648,63
+detroitnews.com,100,Right Center,detroitnews.com,7,7.7,87,56,58,58,13511,2231,12971,0,6667494,51722,13422,430,2230,70,Very Strong,detroitnews.com/,News/Newspapers,56,1609441,71
+duluthnewstribune.com,87.5,Right Center,duluthnewstribune.com,6,6.6,73,50,51,51,48362,8021,48828,1,881527,14442,3096,119,351,35,Very Strong,duluthnewstribune.com/,News/Newspapers,51,481747,56
+faithfamilyamerica.com,39.5,Right Center,faithfamilyamerica.com,4,4.2,43,34,11,11,292333,61523,259392,0,8391,421,0,0,0,0,Moderate,faithfamilyamerica.com/,Health/Conditions and Diseases,10,1350917,38
+jacksonville.com,100,Right Center,jacksonville.com,7,7.5,78,61,56,56,107821,19756,90460,3,2201751,25963,4458,223,537,34,Very Strong,jacksonville.com/,News/Newspapers,56,449064,47
+forbes.com,95,Right Center,forbes.com,9,9.2,95,76,86,86,279,99,226,6,92715025,629434,704578,3421,7867,576,Very Strong,forbes.com/,Business/Investing,82,2108379,92
+fortune.com,100,Right Center,fortune.com,8,8.8,93,70,66,66,3623,1051,2716,1,14238553,175678,31113,1365,812,165,Very Strong,fortune.com/,News/Current Events,60,294457,72
+star-telegram.com,100,Right Center,star-telegram.com,7,7.4,81,56,61,61,30214,5707,25131,1,2127273,37198,7680,303,1175,55,Very Strong,star-telegram.com/,News/Newspapers,59,1169917,62
+fee.org,87.5,Right Center,fee.org,7,7.2,74,59,57,57,31015,6741,26066,1,4943315,14057,435348,214,16,7,Very Strong,fee.org/,Society/Politics,56,142298,57
+mlive.com,87.5,Right Center,mlive.com,7,7.9,85,62,66,66,7474,1368,6595,3,7386452,67108,23860,494,5685,85,Very Strong,mlive.com/,News/Media Industry,62,4745427,66
+gulfnews.com,47,Right Center,gulfnews.com,8,8.1,86,64,58,58,8247,,7509,1,2966448,47510,9223,348,818,79,Very Strong,gulfnews.com/,News/Media Industry,58,797997,65
+kutv.com,82.5,Right Center,kutv.com,6,6.9,74,54,47,47,35638,5016,30729,3,507750,13961,1073,63,584,17,Very Strong,kutv.com/,Arts/Television,46,375710,60
+reviewjournal.com,100,Right Center,reviewjournal.com,7,7.6,84,56,64,64,,,,1,26580296,46812,3579,294,1095,59,Very Strong,reviewjournal.com/,News/Newspapers,64,4642993,70
+dailynews.com,100,Right Center,dailynews.com,7,7.3,80,56,61,61,58069,11269,48373,1,3878690,30355,4791,260,3355,37,Very Strong,dailynews.com/,News/Newspapers,60,1083181,64
+lynx.media,52,Right Center,lynx.media,3,3.1,33,25,5,5,,,,2,347,118,0,0,0,0,Moderate,lynx.media/,Society/Politics,4,3954,12
+militarytimes.com,100,Right Center,militarytimes.com,7,7.2,78,55,56,56,,1376,6865,1,10365811,26698,11436,472,1121,77,Very Strong,militarytimes.com/,News/Media Industry,51,559052,64
+mynorthwest.com,92.5,Right Center,mynorthwest.com,6,7,76,53,47,47,,,,0,3742148,12951,1952,85,1142,18,Very Strong,mynorthwest.com/,Arts/Radio,45,220658,52
+nypost.com,95,Right Center,nypost.com,8,8.9,94,71,52,52,892,183,741,1,30778712,162873,15555,811,3888,113,Very Strong,nypost.com/,Business/Arts and Entertainment,46,3694459,64
+news-gazette.com,92.5,Right Center,news-gazette.com,6,6.5,70,50,53,53,75805,14143,68729,1,659088,11579,5293,134,240,18,Very Strong,news-gazette.com/,News/Newspapers,50,242533,51
+ntd.tv,65,Right Center,ntd.tv,6,6.5,70,51,20,20,244107,169468,207584,5,369101,4609,65,25,4,3,Very Strong,ntd.tv/,Arts/Television,19,58649,37
+omaha.com,100,Right Center,omaha.com,7,7.3,79,57,55,55,22869,3426,21343,1,3070773,32311,4590,247,1763,69,Very Strong,omaha.com/,News/Newspapers,55,241901,43
+ocregister.com,100,Right Center,ocregister.com,7,7.9,87,59,67,67,17707,2973,15417,1,9853898,57372,11782,389,4193,63,Very Strong,ocregister.com/,News/Newspapers,65,2115280,68
+oregonlive.com,100,Right Center,oregonlive.com,8,8.1,88,62,70,70,,,,1,7746126,76976,28883,530,24301,105,Very Strong,oregonlive.com/,News/Media Industry,65,2860106,68
+orlandosentinel.com,100,Right Center,orlandosentinel.com,7,7.8,85,59,67,67,20082,3604,17006,1,7079840,55773,16266,406,942,68,Very Strong,orlandosentinel.com/,News/Newspapers,66,3500261,58
+post-gazette.com,100,Right Center,post-gazette.com,7,7.8,86,59,69,69,15371,2696,12358,1,8020910,66259,20733,661,1200,88,Very Strong,post-gazette.com/,News/Newspapers,67,1680110,66
+triblive.com,100,Right Center,triblive.com,7,7.4,78,59,56,56,24209,4686,21708,1,6064501,31385,18212,306,2476,41,Very Strong,triblive.com/,News/Newspapers,52,1073271,63
+postbulletin.com,100,Right Center,postbulletin.com,6,6.4,69,50,45,45,94900,19306,84184,1,512776,12532,1218,117,528,17,Very Strong,postbulletin.com/,News/Newspapers,45,64865,38
+realclearinvestigations.com,70,Right Center,realclearinvestigations.com,5,4.9,53,38,19,19,,,,0,51932,1888,19,6,2,1,Very Strong,realclearinvestigations.com/,Society/Politics,16,2390,34
+realclearpolitics.com,100,Right Center,realclearpolitics.com,7,8,85,63,38,38,,,,0,12402552,42760,28313,507,309,26,Very Strong,realclearpolitics.com/,Society/Politics,33,607486,52
+reason.com,100,Right Center,reason.com,7,8,84,65,64,64,13263,2632,11112,1,9470689,46082,4934,440,467,30,Very Strong,reason.com/,Society/Politics,63,3602304,63
+valleynewslive.com,92.5,Right Center,valleynewslive.com,6,6.1,66,47,23,23,98498,19409,87106,1,79993,6473,334,39,94,12,Very Strong,valleynewslive.com/,Reference/Education,20,893395,44
+richmond.com,100,Right Center,richmond.com,6,7,76,53,33,33,30474,5577,27186,1,1467566,20871,6144,206,587,39,Very Strong,richmond.com/,Reference/Education,30,2307463,37
+sbsun.com,100,Right Center,sbsun.com,6,6.5,71,49,52,52,157596,31707,136747,1,1855301,11165,11547,109,1208,23,Very Strong,sbsun.com/,News/Media Industry,51,1079530,55
+savannahnow.com,100,Right Center,savannahnow.com,6,6.9,71,56,51,51,167907,36038,147467,8,746357,13390,3953,149,814,33,Very Strong,savannahnow.com/,News/Newspapers,51,302575,44
+sun-sentinel.com,100,Right Center,sun-sentinel.com,7,7.8,87,58,66,66,16042,2929,13350,1,108978292,55932,7110,379,1346,68,Very Strong,sun-sentinel.com/,News/Newspapers,65,3628568,58
+spokesman.com,100,Right Center,spokesman.com,7,7.3,81,55,56,56,37222,6900,32774,1,4061306,28335,4994,221,2726,50,Very Strong,spokesman.com/,News/Newspapers,55,2165969,65
+star-telegram.com,100,Right Center,star-telegram.com,7,7.4,81,56,61,61,30214,5707,25131,1,2127273,37198,7680,303,1175,55,Very Strong,star-telegram.com/,News/Newspapers,59,1169917,62
+statesmanjournal.com,100,Right Center,statesmanjournal.com,6,6.7,73,51,53,53,104160,20575,90327,1,1333359,13324,2329,133,388,27,Very Strong,statesmanjournal.com/,News/Newspapers,53,863126,61
+tallahassee.com,100,Right Center,tallahassee.com,6,6.9,75,53,55,55,47058,9269,41143,1,1747260,18516,2311,168,373,29,Very Strong,tallahassee.com/,News/Newspapers,54,1951321,62
+tbo.com,100,Right Center,tbo.com,7,7.5,80,58,27,27,1940021,597823,1616566,3,1540760,24997,3166,209,501,38,Very Strong,tbo.com/,News/Newspapers,22,301508,41
+algemeiner.com,87.5,Right Center,algemeiner.com,6,6.8,76,50,28,28,126258,30065,107198,0,523446,12663,699,70,54,7,Very Strong,algemeiner.com/,Society/Issues,25,236420,56
+theamericanconservative.com,100,Right Center,theamericanconservative.com,6,7,78,51,54,54,33984,8287,29916,1,2310619,17619,900,164,37,8,Very Strong,theamericanconservative.com/,Society/Politics,54,230679,55
+durangoherald.com,100,Right Center,durangoherald.com,6,6.5,68,52,25,25,142349,31370,137373,1,708730,9143,42595,110,266,21,Very Strong,durangoherald.com/,Reference/Education,21,412609,42
+theepochtimes.com,87.5,Right Center,theepochtimes.com,7,7.9,89,58,57,57,,142,513,1,3633493,42979,11081,464,677,55,Very Strong,theepochtimes.com/,News/Newspapers,57,567658,56
+thegazette.com,92.5,Right Center,thegazette.com,6,6.9,74,54,32,32,49432,8993,44684,2,3479866,14892,4182,151,24649,35,Very Strong,thegazette.com/,Society/Law,27,230652,54
+jewishpress.com,87.5,Right Center,jewishpress.com,6,6.5,71,50,51,51,130358,45364,118123,2,692267,9653,508,77,44,8,Very Strong,jewishpress.com/,Society/Religion and Spirituality,51,887038,58
+thelibertarianrepublic.com,70,Right Center,thelibertarianrepublic.com,6,6.3,66,51,22,22,178855,41751,156014,1,75867,4364,56,27,5,2,Very Strong,thelibertarianrepublic.com/,Society/Politics,22,83070,40
+pe.com,100,Right Center,pe.com,7,7.3,81,55,57,57,60030,10558,52310,1,2974320,25443,16526,239,3305,37,Very Strong,pe.com/,News/Newspapers,56,1401423,59
+thesmokinggun.com,75,Right Center,thesmokinggun.com,7,7.7,82,60,64,64,52343,8913,52356,1,1887333,27497,654,167,23,9,Very Strong,thesmokinggun.com/,Society/Crime,63,134227,59
+tennessean.com,100,Right Center,tennessean.com,7,7.6,83,57,63,63,20775,3678,17471,0,3216970,42202,12023,317,2042,61,Very Strong,tennessean.com/,News/Newspapers,61,1250278,68
+toledoblade.com,100,Right Center,toledoblade.com,7,7.3,,,,,77387,14642,67748,1,,,,,,,,toledoblade.com/,,,,
+cjonline.com,100,Right Center,cjonline.com,7,7.1,75,56,50,50,92205,16785,93496,9,954767,15247,4053,153,1264,29,Very Strong,cjonline.com/,News/Newspapers,50,245187,44
+tulsaworld.com,100,Right Center,tulsaworld.com,7,7.2,78,55,30,30,,,,1,2100279,25351,2583,222,1440,36,Very Strong,tulsaworld.com/,Arts/Music,24,1313205,38
+wsj.com,100,Right Center,wsj.com,8,9.1,94,75,77,77,602,160,535,1,182060026,486394,426446,3055,21525,556,Very Strong,wsj.com/,News/Newspapers,69,7815720,85
+washingtontimes.com,80,Right Center,washingtontimes.com,8,8.3,90,64,72,72,7099,1634,5443,1,22744409,98433,12267,900,5102,171,Very Strong,washingtontimes.com/,News/Newspapers,70,2284112,75
+rep-am.com,95,Right Center,rep-am.com,6,6.1,,,,,260928,53876,235822,4,,,,,,,,rep-am.com/,,,,
+kansas.com,100,Right Center,kansas.com,7,7.3,81,54,58,58,47877,7890,39552,1,1031924,25678,2291,203,1336,47,Very Strong,kansas.com/,News/Newspapers,58,965866,59
+wikileaks.org,44.5,Right Center,wikileaks.org,8,8.6,90,70,48,48,24672,11955,25254,1,14975514,45781,2562,252,162,18,Very Strong,wikileaks.org/,Society/Issues,45,25842469,64
+alphanewsmn.com,39.5,Right,alphanewsmn.com,5,5,53,40,20,20,305928,85289,250255,0,75515,1390,9,3,6,1,Very Strong,alphanewsmn.com/,Society/Politics,19,30430,39
+aclj.org,52,Right,aclj.org,6,6.7,68,56,57,57,103363,20172,86731,1,484240,7071,236,70,17,5,Very Strong,aclj.org/,Society/Issues,57,36437,50
+spectator.org,67.5,Right,spectator.org,7,7.2,75,59,54,54,63122,11354,57867,1,6702931,15676,686,176,31,8,Very Strong,spectator.org/,Society/Politics,54,219166,59
+awm.com,42,Right,awm.com,5,5.3,55,43,10,10,235764,38275,209272,1,20346,1212,14,3,0,0,Very Strong,awm.com/,Business/Agriculture and Forestry,9,84062,38
+bearingarms.com,87.5,Right,bearingarms.com,6,6.3,66,51,34,34,107008,18746,92646,1,2129404,4646,18,9,1,1,Very Strong,bearingarms.com/,Society/Politics,33,70667,52
+biggovernment.news,5,Right,biggovernment.news,3,3.7,33,35,16,16,9973080,,8879206,1,15810,344,1,1,0,0,Moderate,biggovernment.news/,Society/Politics,15,10364,28
+bigleaguepolitics.com,12.5,Right,bigleaguepolitics.com,5,5.8,,,,,39699,9799,34465,0,,,,,,,,bigleaguepolitics.com/,,,,
+bizpacreview.com,85,Right,bizpacreview.com,6,6.6,73,49,28,28,,1394,6523,1,825934,7434,32,15,5,1,Very Strong,bizpacreview.com/,Society/Politics,27,88010,46
+campusreform.org,92.5,Right,campusreform.org,6,6.4,69,50,32,32,,,,1,852500,8101,494,94,3,2,Very Strong,campusreform.org/,Society/Politics,30,258280,57
+christianpost.com,82.5,Right,christianpost.com,7,7.9,89,57,62,62,26129,6418,22122,1,2219346,33182,3650,240,87,14,Very Strong,christianpost.com/,Society/Religion and Spirituality,62,595931,68
+commentarymagazine.com,80,Right,commentarymagazine.com,6,6.7,72,52,29,29,134934,23646,114965,0,1888860,12952,864,179,16,10,Very Strong,commentarymagazine.com/,Society/Politics,27,50638,39
+conservativereview.com,92.5,Right,conservativereview.com,6,6.3,69,48,26,26,80153,21507,64573,1,799995,6353,99,20,31,4,Very Strong,conservativereview.com/,News/Weblogs,24,32824,49
+dailycaller.com,70,Right,dailycaller.com,8,8.3,87,66,45,45,,176,797,1,19619781,51884,2184,327,1138,45,Very Strong,dailycaller.com/,Society/Issues,36,452028,69
+dailysignal.com,100,Right,dailysignal.com,7,7.3,79,57,32,32,39692,6566,32647,1,2791780,20018,901,142,409,24,Very Strong,dailysignal.com/,Society/Politics,28,146954,58
+dcwhispers.com,7.5,Right,dcwhispers.com,5,4.9,48,42,17,17,236829,77024,217390,2,89862,1127,0,0,0,0,Very Strong,dcwhispers.com/,Society/Activism,17,10775,36
+faithwire.com,62.5,Right,faithwire.com,5,5.2,56,41,26,26,115149,32723,95857,1,70553,2673,19,7,0,0,Very Strong,faithwire.com/,Society/Religion and Spirituality,24,21422,41
+foxnews.com,75,Right,foxnews.com,8,9,94,73,82,82,239,55,222,1,95513791,250080,267996,1654,6866,259,Very Strong,foxnews.com/,News,81,5062706,87
+gopusa.com,75,Right,gopusa.com,6,5.9,62,48,40,40,232020,47493,217519,4,333513,4435,79,37,8,3,Very Strong,gopusa.com/,Society/Politics,40,106502,43
+grabien.com,42,Right,grabien.com,5,5.9,64,45,34,34,27872,6670,22925,1,246360,4139,5,5,3,2,Very Strong,grabien.com/,News/Breaking News,31,382322,49
+greatamericanpolitics.com,20,Right,greatamericanpolitics.com,3,3.3,,,,,294091,66880,278142,0,,,,,,,,greatamericanpolitics.com/,,,,
+heritage.org,87.5,Right,heritage.org,7,7.6,80,60,73,73,23167,5078,19294,1,3628532,40491,11001,795,1572,113,Very Strong,heritage.org/,Society/Politics,73,181506,61
+hermancain.com,75,Right,hermancain.com,5,5.8,61,46,14,14,,,,1,29837,2205,26,14,0,0,Very Strong,hermancain.com/,Computers/Consultants,13,2179,13
+hotair.com,62.5,Right,hotair.com,7,7.7,79,63,40,40,17562,3376,16837,1,9250477,19145,424,77,101,8,Very Strong,hotair.com/,Society/Politics,36,281819,61
+ijr.com,95,Right,ijr.com,7,7.1,77,54,21,21,,,,1,910417,9981,163,41,134,6,Very Strong,ijr.com/,Society/Politics,19,602775,59
+independentsentinel.com,47.5,Right,independentsentinel.com,5,5.6,60,44,40,40,113540,25468,103508,1,270925,2904,11,6,0,0,Very Strong,independentsentinel.com/,Society/Politics,40,355830,49
+investors.com,82.5,Right,investors.com,7,7.6,83,58,66,66,9842,2323,9566,1,11682219,40874,1983,299,869,27,Very Strong,investors.com/,Business/Investing,66,492718,69
+legalinsurrection.com,87.5,Right,legalinsurrection.com,6,6.8,70,56,32,32,71616,13347,60240,1,3204824,7887,494,43,0,0,Very Strong,legalinsurrection.com/,Society/Politics,31,201250,53
+lifenews.com,17.5,Right,lifenews.com,7,7.1,76,55,58,58,46631,10526,36425,0,1960013,14317,265,74,2197,9,Very Strong,lifenews.com/,Society/Issues,58,139123,64
+lifesitenews.com,17.5,Right,lifesitenews.com,7,7.8,85,59,61,61,23706,6691,20749,1,4135544,19742,332,73,11,5,Very Strong,lifesitenews.com/,Society/Issues,60,157053,63
+lifezette.com,62.5,Right,lifezette.com,6,6.5,71,49,32,32,79549,21256,65815,1,768512,7779,377,73,15,5,Very Strong,lifezette.com/,News/Breaking News,31,50186,45
+louderwithcrowder.com,29.5,Right,louderwithcrowder.com,6,6,61,51,21,21,37366,7198,32739,1,94915,3368,7,5,1,1,Very Strong,louderwithcrowder.com/,Society/Politics,19,127866,47
+unionleader.com,80,Right,unionleader.com,6,6.8,,,,,68805,12176,63842,1,,,,,,,,unionleader.com/,,,,
+nationalreview.com,100,Right,nationalreview.com,8,8.2,89,62,71,71,7811,1641,6612,1,24679090,56194,8142,626,1048,47,Very Strong,nationalreview.com/,Society/Politics,69,492527,66
+newsbusters.org,69.5,Right,newsbusters.org,7,7.6,79,62,55,55,,,,1,4348520,18686,490,104,42,5,Very Strong,newsbusters.org/,Society/Activism,54,288267,56
+newsmax.com,67.5,Right,newsmax.com,7,7.8,83,62,62,62,9808,2131,8825,1,6373688,45460,2763,363,373,36,Very Strong,newsmax.com/,News/Breaking News,62,892825,55
+observer.com,80,Right,observer.com,7,8,86,63,40,40,25760,8444,19684,0,4805206,53306,4549,372,410,28,Very Strong,observer.com/,News/Newspapers,35,320907,50
+ntknetwork.com,39.5,Right,ntknetwork.com,5,5.5,57,45,17,17,181451,64840,151219,0,98036,2232,4,3,6,4,Very Strong,ntknetwork.com/,Society/Politics,17,16863,43
+pjmedia.com,42,Right,pjmedia.com,7,7.5,80,59,50,50,,,,1,14254403,23897,1033,152,58,14,Very Strong,pjmedia.com/,News/Weblogs,45,865606,67
+thepoliticalinsider.com,7.5,Right,thepoliticalinsider.com,6,6.3,68,49,17,17,68640,18084,60400,1,150988,4949,17,6,0,0,Very Strong,thepoliticalinsider.com/,Society/Politics,15,93399,43
+politifeed.net,44.5,Right,politifeed.net,3,2.9,24,29,7,7,6175754,,5654143,0,303,130,0,0,0,0,Moderate,politifeed.net/,Society/Politics,7,9901,26
+projectveritas.com,44.5,Right,projectveritas.com,6,6.2,63,52,23,23,244862,27517,206844,1,198820,3639,4,2,0,0,Very Strong,projectveritas.com/,Society/Politics,22,24865,45
+westernjournalism.com,37.5,Right,westernjournalism.com,6,6.6,71,51,20,20,2523178,,2732740,0,603030,7202,58,30,4,2,Very Strong,westernjournalism.com/,Society/Politics,19,76735,34
+theblacksphere.net,57,Right,theblacksphere.net,5,5.6,55,48,21,21,262953,57986,229735,0,314137,1660,0,0,0,0,Very Strong,theblacksphere.net/,Society/Politics,20,27216,39
+theblaze.com,80,Right,theblaze.com,7,7.9,86,60,39,39,8524,1802,7464,1,6538859,37147,999,226,279,16,Very Strong,theblaze.com/,News/Media Industry,32,409481,63
+carepublican.com,47,Right,carepublican.com,3,3.7,37,31,8,8,15571558,,14582343,3,290,151,1,1,0,0,Moderate,carepublican.com/,News/Newspapers,8,448,26
+thecollegefix.com,92.5,Right,thecollegefix.com,6,6.2,67,47,29,29,82834,14000,70995,1,841732,8299,584,107,9,4,Very Strong,thecollegefix.com/,Business/Investing,27,64494,50
+dailywire.com,67.5,Right,dailywire.com,7,7.2,81,53,35,35,3060,585,2870,1,2905182,18033,307,62,9,5,Very Strong,dailywire.com/,News/Breaking News,31,84639,60
+thefederalist.com,75,Right,thefederalist.com,7,7.3,77,59,37,37,16193,3351,13301,0,3915729,22656,942,148,136,12,Very Strong,thefederalist.com/,Society/Politics,30,100836,61
+theconservativetreehouse.com,17.5,Right,theconservativetreehouse.com,6,6.6,68,54,24,24,26270,5758,23924,0,1262594,6135,17,10,0,0,Very Strong,theconservativetreehouse.com/,Society/Issues,22,2295122,45
+patriotpost.us,90,Right,patriotpost.us,6,6.3,63,54,28,28,190989,32509,180054,1,1671079,5157,62,30,2,2,Very Strong,patriotpost.us/,Society/Politics,26,289522,56
+therightscoop.com,47.5,Right,therightscoop.com,6,6.5,68,53,21,21,45963,8485,45303,2,2308427,5863,16,9,5,3,Very Strong,therightscoop.com/,Society/Politics,19,491321,51
+thetruthaboutguns.com,75,Right,thetruthaboutguns.com,6,6.7,74,50,24,24,36109,7337,32010,0,1277942,7270,32,10,1,1,Very Strong,thetruthaboutguns.com/,Business,21,2060803,42
+townhall.com,85,Right,townhall.com,8,8.2,87,65,60,60,9403,1786,9864,1,12107828,35089,4863,343,281,24,Very Strong,townhall.com/,Society/Politics,57,1062946,61
+tribunist.com,62.5,Right,tribunist.com,5,5.3,57,42,19,19,226784,45995,184771,0,14657,1645,3,2,0,0,Very Strong,tribunist.com/,Recreation/Humor,19,12182,32
+twitchy.com,29.5,Right,twitchy.com,7,7.1,75,56,35,35,20161,3813,22409,1,4168581,10499,133,24,5,2,Very Strong,twitchy.com/,Society/Politics,33,305016,56
+washingtonexaminer.com,92.5,Right,washingtonexaminer.com,7,7.8,83,61,60,60,4923,1091,3785,1,16246205,54322,21536,401,5607,83,Very Strong,washingtonexaminer.com/,News/Newspapers,56,636922,70
+freebeacon.com,77.5,Right,freebeacon.com,7,7.6,79,61,46,46,23561,4711,18631,1,4506138,25149,569,120,412,20,Very Strong,freebeacon.com/,Society/Military,39,444745,69
+weeklystandard.com,87.5,Right,weeklystandard.com,7,7.6,83,58,64,64,101777,28828,82598,1,6970026,30327,7982,337,2548,23,Very Strong,weeklystandard.com/,Society/Politics,64,144885,55
+westernjournal.com,37.5,Right,westernjournal.com,6,6.9,82,46,27,27,,125,481,1,1384680,8832,103,37,135,4,Very Strong,westernjournal.com/,Society/Politics,23,148740,54
+yellowhammernews.com,87.5,Right,yellowhammernews.com,6,6,64,48,24,24,211945,43288,186246,1,73173,3940,601,23,835,12,Very Strong,yellowhammernews.com/,Society/Politics,22,200100,45
+arstechnica.com,100,Pro Science,arstechnica.com,8,8.9,92,72,75,75,1764,509,1372,1,158707432,138468,44631,986,3154,135,Very Strong,arstechnica.com/,Computers/News and Media,72,7000481,82
+cdc.gov,100,Pro Science,cdc.gov,8,8.9,94,71,94,94,1699,410,1547,1,61657154,364014,1344756,3838,1600698,1911,Very Strong,cdc.gov/,Health/Conditions and Diseases,92,1656753,89
+cnet.com,100,Pro Science,cnet.com,8,9,95,72,86,86,177,126,155,1,92107018,314943,201570,2391,731189,309,Very Strong,cnet.com/,Computers/Software/Directories,75,8501401,88
+discovermagazine.com,95,Pro Science,discovermagazine.com,8,8.1,85,65,65,65,19357,4911,14997,2,4809559,49227,30086,812,728,46,Very Strong,discovermagazine.com/,Science/Publications,61,363266,65
+futurism.com,100,Pro Science,futurism.com,7,8,88,61,31,31,10333,3812,8193,1,1289610,30614,7750,284,227,28,Very Strong,futurism.com/,Reference/Education,25,113108,64
+healthline.com,82.5,Pro Science,healthline.com,8,8.3,90,63,53,53,389,177,353,1,10111521,114951,82809,858,566,102,Very Strong,healthline.com/,Health/Conditions and Diseases,48,397833,72
+livescience.com,100,Pro Science,livescience.com,8,8.4,91,65,68,68,2753,869,2045,1,10862364,126650,29262,1205,1329,129,Very Strong,livescience.com/,Science/News and Media,67,273542,75
+mayoclinic.org,77.5,Pro Science,mayoclinic.org,8,8.4,92,64,82,82,904,295,681,1,10755686,179875,998576,1736,17574,323,Very Strong,mayoclinic.org/,Health/Conditions and Diseases,74,1153876,78
+medicalnewstoday.com,100,Pro Science,medicalnewstoday.com,8,8.3,91,62,50,50,1981,687,1370,1,29504861,96482,30400,775,797,85,Very Strong,medicalnewstoday.com/,Health/Mental Health,39,682082,74
+medscape.com,92.5,Pro Science,medscape.com,8,8.2,90,62,80,80,2687,1150,2386,1,12288753,84794,136493,1403,7224,230,Very Strong,medscape.com/,Health/Medicine,73,1415181,65
+technologyreview.com,87.5,Pro Science,technologyreview.com,8,8.2,91,61,70,70,7108,2315,5666,1,5645076,92605,41628,1174,1155,126,Very Strong,technologyreview.com/,Science/Technology,69,389579,73
+nasa.gov,95,Pro Science,nasa.gov,8,9,94,72,94,94,952,390,935,2,98044886,302755,2666377,3976,305982,919,Very Strong,nasa.gov/,Science/Technology,92,19322358,83
+nationalgeographic.com,100,Pro Science,nationalgeographic.com,8,8.9,92,72,80,80,1643,536,1361,2,31067715,260721,456697,2895,20022,527,Very Strong,nationalgeographic.com/,Science/Social Sciences,69,1839951,76
+newscientist.com,95,Pro Science,newscientist.com,8,8.4,92,64,78,78,9580,4893,7979,1,15164113,107773,842215,1654,2019,158,Very Strong,newscientist.com/,Science/Publications,76,978393,75
+popsci.com,82.5,Pro Science,popsci.com,7,8,88,61,63,63,7192,2165,5924,1,4284786,73158,18914,883,975,96,Very Strong,popsci.com/,Science/Publications,62,403875,63
+psychologytoday.com,80,Pro Science,psychologytoday.com,8,8.5,93,65,48,48,1202,387,963,1,15281357,188266,80967,1688,555,102,Very Strong,psychologytoday.com/,Health/Mental Health,43,9786009,58
+sciencealert.com,85,Pro Science,sciencealert.com,7,7.6,83,57,55,55,8076,3057,6041,1,1838974,43082,3094,430,334,52,Very Strong,sciencealert.com/,Science/News and Media,55,95369,63
+factcheck.org,100,Pro Science,factcheck.org,7,7.8,80,64,72,72,29164,5665,23082,1,4075892,28734,15401,822,146,36,Very Strong,factcheck.org/,News/Media Industry,72,93830,61
+sciencedaily.com,82.5,Pro Science,sciencedaily.com,8,8.6,93,66,71,71,3575,1412,3041,1,45868883,175710,205562,2061,19622,239,Very Strong,sciencedaily.com/,Science/Educational Resources,70,645199,57
+sciencemag.org,100,Pro Science,sciencemag.org,8,8.5,93,64,81,81,,,,1,31097518,159025,903566,3368,54018,357,Very Strong,sciencemag.org/,Science/Publications,79,8111745,76
+sciencenews.org,100,Pro Science,sciencenews.org,7,7.8,88,57,68,68,24665,5846,20912,1,2114991,35728,20732,999,1490,71,Very Strong,sciencenews.org/,Science/Publications,67,308429,64
+scientificamerican.com,100,Pro Science,scientificamerican.com,8,8.4,92,64,72,72,4644,1559,3559,1,14346766,162450,85671,2121,2931,234,Very Strong,scientificamerican.com/,Science/Publications,70,1443016,74
+smithsonianmag.com,100,Pro Science,smithsonianmag.com,7,8,87,61,66,66,5867,1575,4282,1,6546098,94438,38906,1192,2240,181,Very Strong,smithsonianmag.com/,Society/History,64,2600865,72
+space.com,92.5,Pro Science,space.com,8,8.4,90,66,73,73,4291,1523,3443,1,8387782,68551,33481,853,1978,89,Very Strong,space.com/,Science/Astronomy,71,310575,72
+the-scientist.com,95,Pro Science,the-scientist.com,7,7.3,81,54,37,37,33722,12583,27634,1,1095826,21745,20715,757,548,39,Very Strong,the-scientist.com/,Science/Biology,30,948860,58
+treehugger.com,100,Pro Science,treehugger.com,7,7.9,83,64,72,72,18439,5469,15515,1,6125377,58928,6926,520,341,72,Very Strong,treehugger.com/,Society/Issues,72,436572,69
+webmd.com,92.5,Pro Science,webmd.com,8,8.9,93,72,83,83,482,173,396,1,39310933,268893,38777,1818,2899,331,Very Strong,webmd.com/,Health,81,2694708,81
+anonews.co,39.5,Conspiracy,anonews.co,5,5.7,60,45,16,16,79747,44072,63698,3,95818,2329,36,18,2,1,Very Strong,anonews.co/,Society/Law,15,5398,34
+awarenessact.com,7.5,Conspiracy,awarenessact.com,5,5.5,57,45,17,17,89652,38941,73780,2,29935,1956,13,6,0,0,Very Strong,awarenessact.com/,Health/Alternative,17,66151,33
+charismanews.com,75,Conspiracy,charismanews.com,6,6.3,68,49,45,45,78321,23165,68646,1,3082161,8845,168,40,0,0,Very Strong,charismanews.com/,Society/Religion and Spirituality,45,516080,45
+cbn.com,87.5,Conspiracy,cbn.com,7,7.6,84,57,65,65,15463,4424,13895,6,4099284,32409,8037,210,234,17,Very Strong,cbn.com/,Society/Religion and Spirituality,64,577746,62
+collective-evolution.com,12.5,Conspiracy,collective-evolution.com,7,7.5,85,54,25,25,25400,,20316,1,1772348,18117,135,64,2,1,Very Strong,collective-evolution.com/,Society/Paranormal,21,78880,58
+curiousmindmagazine.com,20,Conspiracy,curiousmindmagazine.com,5,5.3,57,42,18,18,131818,51343,105312,1,10254,1477,15,7,0,0,Very Strong,curiousmindmagazine.com/,Society/Religion and Spirituality,18,13231,39
+ecowatch.com,69.5,Conspiracy,ecowatch.com,7,7.1,76,56,34,34,46984,11589,37935,1,1792067,23752,2078,220,102,23,Very Strong,ecowatch.com/,Society/Ethnicity,27,87718,58
+educateinspirechange.org,17.5,Conspiracy,educateinspirechange.org,5,5.5,56,46,16,16,90341,59760,69204,1,41863,2083,5,3,0,0,Very Strong,educateinspirechange.org/,Recreation/Travel,14,96143,45
+endtimeheadlines.org,77.5,Conspiracy,endtimeheadlines.org,5,4.9,47,44,17,17,175416,41897,161475,1,160260,1137,7,3,0,0,Very Strong,endtimeheadlines.org/,Society/Issues,16,67745,44
+ewg.org,87.5,Conspiracy,ewg.org,7,7.8,83,61,79,79,25548,5240,26754,5,4072508,52948,4058,415,398,67,Very Strong,ewg.org/,Society/Issues,74,1623431,61
+thefreethoughtproject.com,59.5,Conspiracy,thefreethoughtproject.com,7,7.1,75,57,25,25,55112,13086,47419,1,2312045,9842,121,24,0,0,Very Strong,thefreethoughtproject.com/,Society/Politics,24,33370,55
+govtslaves.com,5,Conspiracy,govtslaves.com,4,4.1,,,,,2415950,552518,2047246,2,,,,,,,,govtslaves.com/,,,,
+healthnutnews.com,7.5,Conspiracy,healthnutnews.com,5,5.7,60,46,25,25,72310,16834,77803,1,460328,2903,3,2,0,0,Very Strong,healthnutnews.com/,Health/Nutrition,25,48515,43
+healthy-holistic-living.com,17.5,Conspiracy,healthy-holistic-living.com,6,6,63,48,18,18,46502,13780,36257,1,138075,5202,5,4,0,0,Very Strong,healthy-holistic-living.com/,Society/Paranormal,17,80821,43
+humansarefree.com,7.5,Conspiracy,humansarefree.com,6,6.3,64,53,19,19,64955,30857,55141,2,473647,4740,16,8,0,0,Very Strong,humansarefree.com/,Society/Politics,18,17863,43
+iflscience.com,57,Conspiracy,iflscience.com,7,7.5,83,56,32,32,5770,2352,4556,1,1211872,37122,4442,406,135,28,Very Strong,iflscience.com/,Science/Physics,28,90999,59
+infowars.com,25,Conspiracy,infowars.com,7,8,83,65,70,70,3682,1002,3563,1,13200720,38486,2365,154,30,11,Very Strong,infowars.com/,Society/Politics,69,708091,63
+jesusdaily.com,54.5,Conspiracy,jesusdaily.com,4,4.6,47,38,13,13,176020,70456,149865,1,11857,592,1,1,0,0,Strong,jesusdaily.com/,Home/Family,12,30263,40
+liveaction.org,30,Conspiracy,liveaction.org,6,6.4,66,53,26,26,93589,25551,76554,1,329020,4473,57,10,3,1,Very Strong,liveaction.org/,Society/Issues,25,60742,45
+mediafactwatch.com,5,Conspiracy,mediafactwatch.com,3,3.7,32,37,7,7,15627331,,17367718,1,4309,298,0,0,0,0,Moderate,mediafactwatch.com/,Health/News and Media,7,15583,28
+medicine.news,5,Conspiracy,medicine.news,4,4.3,37,42,15,15,4524503,,4166532,0,20528,663,1,1,0,0,Strong,medicine.news/,Society/Issues,13,22593,32
+mercola.com,35,Conspiracy,mercola.com,8,8.3,91,63,68,68,5993,2330,5143,1,7777167,65516,1154,232,82,24,Very Strong,mercola.com/,Health/Alternative,68,338338,65
+mindbodygreen.com,75,Conspiracy,mindbodygreen.com,7,7.9,88,59,33,33,8440,2499,6686,1,2329721,41162,7228,175,56,10,Very Strong,mindbodygreen.com/,Society/Issues,27,2787725,60
+naturalnews.com,5,Conspiracy,naturalnews.com,8,8.2,87,64,35,35,16763,5568,15615,1,6730329,48653,2102,236,62,15,Very Strong,naturalnews.com/,Health/News and Media,28,597122,66
+neonnettle.com,25,Conspiracy,neonnettle.com,5,5.9,63,46,20,20,64245,16165,55858,1,945205,3609,11,5,0,0,Very Strong,neonnettle.com/,Society/Folklore,18,4746770,56
+newstarget.com,5,Conspiracy,newstarget.com,6,6.2,62,52,51,51,105572,37104,87249,1,226119,5689,71,34,8,3,Very Strong,newstarget.com/,Health/News and Media,51,105768,45
+nowtheendbegins.com,17.5,Conspiracy,nowtheendbegins.com,6,5.9,61,49,28,28,,16086,59403,1,194001,4074,7,4,1,1,Very Strong,nowtheendbegins.com/,News/Media Industry,27,267339,51
+peta.org,57,Conspiracy,peta.org,7,8,86,62,67,67,19554,5150,16879,0,3018875,44011,6942,295,48,21,Very Strong,peta.org/,Society/Issues,65,60628,52
+realfarmacy.com,7.5,Conspiracy,realfarmacy.com,6,6,62,50,20,20,96669,31506,77282,1,198681,5831,63,17,1,1,Very Strong,realfarmacy.com/,Science/Agriculture,19,38896,45
+returntonow.net,17.5,Conspiracy,returntonow.net,5,4.9,50,41,16,16,83489,25040,63615,1,38129,1706,7,6,0,0,Very Strong,returntonow.net/,Shopping/Health,15,9416,38
+space.news,5,Conspiracy,space.news,4,4.1,38,38,20,20,3346913,,3190899,0,13406,404,14,2,0,0,Moderate,space.news/,Health/News and Media,20,2054,25
+theantimedia.com,20,Conspiracy,theantimedia.com,6,6.3,72,45,26,26,115655,28887,102750,1,582320,4339,23,10,0,0,Very Strong,theantimedia.com/,Society/Paranormal,26,194653,60
+theheartysoul.com,57,Conspiracy,theheartysoul.com,6,6.2,65,50,17,17,57819,18426,44762,1,128566,4832,76,6,1,1,Very Strong,theheartysoul.com/,Business/Healthcare,15,54459,48
+stream.org,57,Conspiracy,stream.org,6,6,61,50,37,37,112139,23742,102838,1,739130,4277,689,22,0,0,Very Strong,stream.org/,Society/Religion and Spirituality,34,170923,55
+truepundit.com,12.5,Conspiracy,truepundit.com,6,6.1,65,48,20,20,54431,11339,47574,1,221740,3459,4,2,0,0,Very Strong,truepundit.com/,Society/Issues,19,48383,41
+twisted.news,5,Conspiracy,twisted.news,4,3.8,32,38,7,7,,,,0,28276,362,1,1,0,0,Moderate,twisted.news/,News/Newspapers,7,181,13
+vaccines.news,5,Conspiracy,vaccines.news,4,4.8,43,46,18,18,687751,586036,575716,1,91783,1254,8,2,0,0,Very Strong,vaccines.news/,Society/Paranormal,17,5670,38
+yournewswire.com,0,Conspiracy,yournewswire.com,7,7.5,83,56,19,19,15657164,,14675664,1,1109646,9670,410,21,0,0,Very Strong,yournewswire.com/,Society/Religion and Spirituality,16,175021,42
+zerohedge.com,0,Conspiracy,zerohedge.com,7,8,87,62,46,46,1934,598,1928,1,15378077,44982,2053,153,28,8,Very Strong,zerohedge.com/,Society/Paranormal,37,909551,73
+100percentfedup.com,7.5,Fake News,100percentfedup.com,5,5.6,57,46,19,19,99504,20549,90995,0,258793,1823,4,3,0,0,Very Strong,100percentfedup.com/,Society/Religion and Spirituality,17,33421,41
+abcnews-us.com,20,Fake News,abcnews-us.com,3,2.8,31,21,7,7,,,,8,158,54,0,0,0,0,Weak,abcnews-us.com/,Society/People,7,241,11
+allenwestrepublic.com,34.5,Fake News,allenwestrepublic.com,4,4.7,48,39,14,14,,,,0,33862,567,0,0,0,0,Strong,allenwestrepublic.com/,Society/Politics,14,12830,23
+americanjournalreview.com,7.5,Fake News,americanjournalreview.com,3,3.6,31,35,12,12,1933342,,1792279,2,3395,329,0,0,0,0,Moderate,americanjournalreview.com/,News/Media Industry,11,12672,25
+americanlookout.com,20,Fake News,americanlookout.com,5,5.1,51,43,14,14,777848,180533,679575,0,83299,938,6,3,0,0,Strong,americanlookout.com/,Society/Politics,13,39232,31
+americanthinker.com,27.5,Fake News,americanthinker.com,7,7.4,79,58,58,58,13274,3257,13310,6,6506189,23101,695,132,32,11,Very Strong,americanthinker.com/,News/Magazines and E-zines,58,668997,60
+bb4sp.com,37.5,Fake News,bb4sp.com,4,4.2,41,36,12,12,2639267,,2431287,0,5789,366,0,0,0,0,Moderate,bb4sp.com/,Society/Gay  Lesbian  and Bisexual,11,23422,26
+beforeitsnews.com,0,Fake News,beforeitsnews.com,7,7.3,74,62,26,26,17755,6560,19076,1,2468997,25309,6810,264,139,25,Very Strong,beforeitsnews.com/,Business/Business Services,22,905593,46
+bipartisanreport.com,17.5,Fake News,bipartisanreport.com,5,5.4,56,44,16,16,199060,37481,182707,1,62648,1888,54,16,0,0,Very Strong,bipartisanreport.com/,Computers/Software/Internet,16,159924,44
+breitbart.com,49.5,Fake News,breitbart.com,8,8.3,90,64,69,69,,64,287,5,26647522,68060,3259,389,1028,45,Very Strong,breitbart.com/,News/Headline Links,69,1726069,83
+clashdaily.com,10,Fake News,clashdaily.com,5,5.8,59,49,21,21,219530,47055,204988,0,303795,2992,10,3,0,0,Very Strong,clashdaily.com/,Society/Politics,20,81469,39
+cnsnews.com,67.5,Fake News,cnsnews.com,7,7.5,79,60,36,36,,,,1,6089579,29732,1778,205,2423,34,Very Strong,cnsnews.com/,Society/Activism,29,264644,57
+conservativedailypost.com,22.5,Fake News,conservativedailypost.com,5,5.8,61,46,20,20,201801,47549,176928,1,70313,1836,2,2,0,0,Very Strong,conservativedailypost.com/,Society/Issues,20,44065,48
+conservativefiringline.com,17.5,Fake News,conservativefiringline.com,5,5.1,52,43,16,16,192577,37154,187584,0,107344,1242,1,1,0,0,Very Strong,conservativefiringline.com/,Society/Politics,15,54711,40
+conservative101.com,29.5,Fake News,conservative101.com,5,4.9,48,42,7,7,6034921,,5246203,16,4386,663,3,2,0,0,Strong,conservative101.com/,Computers/Software/Internet,6,3404,12
+conservativepost.com,29.5,Fake News,conservativepost.com,5,5.5,56,46,16,16,978914,351701,865926,0,30152,1619,3,2,0,0,Very Strong,conservativepost.com/,Society/Politics,16,36856,38
+westernjournal.com,37.5,Fake News,westernjournal.com,6,6.9,82,46,27,27,,125,481,1,1384680,8832,103,37,135,4,Very Strong,westernjournal.com/,Society/Politics,23,148740,54
+dailymail.co.uk,64.5,Fake News,dailymail.co.uk,8,9.1,94,74,75,75,203,119,187,1,88944323,422785,104952,1836,12474,304,Very Strong,dailymail.co.uk/,News/Newspapers,73,9020674,89
+dcdirtylaundry.com,12.5,Fake News,dcdirtylaundry.com,3,3.6,33,33,23,23,161503,31414,167688,0,473509,390,0,0,0,0,Moderate,dcdirtylaundry.com/,Science/Social Sciences,22,3251,40
+democraticmoms.com,39.5,Fake News,democraticmoms.com,3,3.2,32,27,7,7,15671274,,14696837,1,1621,112,6,1,0,0,Moderate,democraticmoms.com/,Society/Politics,7,5525,20
+denverguardian.com,7.5,Fake News,denverguardian.com,4,4.4,48,34,10,10,,,,0,1547,258,8,1,0,0,Moderate,denverguardian.com/,Science/Environment,9,45,17
+downtrend.com,7.5,Fake News,downtrend.com,5,5.8,,,,,382983,86768,343614,1,,,,,,,,downtrend.com/,,,,
+drudgereport.com,29.5,Fake News,drudgereport.com,7,7.6,76,65,49,49,793,166,532,3,7173275,19873,1191,247,12,8,Very Strong,drudgereport.com/,News/Breaking News,48,12594,44
+eaglerising.com,20,Fake News,eaglerising.com,5,5.2,53,44,20,20,1128817,183912,977503,0,59232,1546,0,0,0,0,Very Strong,eaglerising.com/,Society/Politics,20,44758,37
+en-volve.com,7.5,Fake News,en-volve.com,4,4.1,,,,,396135,114505,393275,2,,,,,,,,en-volve.com/,,,,
+frontpagemag.com,17.5,Fake News,frontpagemag.com,7,7.5,78,60,57,57,56425,12908,50761,1,4942746,18140,716,148,154,3,Very Strong,frontpagemag.com/,News/Analysis and Opinion,56,207744,53
+geologyin.com,52,Fake News,geologyin.com,4,4.6,49,37,18,18,105000,36523,87343,1,7799,859,51,16,0,0,Strong,geologyin.com/,Recreation/Outdoors,18,5769,34
+thegoodlordabove.com,29.5,Fake News,thegoodlordabove.com,4,4.6,48,37,12,12,2868815,,2932511,1,3338,270,0,0,0,0,Moderate,thegoodlordabove.com/,Arts/Genres,12,662,25
+hoggwatch.com,5,Fake News,hoggwatch.com,3,3.5,31,34,8,8,3575401,,3022083,8,4689,180,0,0,0,0,Moderate,hoggwatch.com/,Health/News and Media,8,27,16
+illicitinfo.com,42.5,Fake News,illicitinfo.com,3,2.9,28,25,10,10,191557,29536,165826,1,2943,78,0,0,0,0,Weak,illicitinfo.com/,Business/Investing,10,2598,22
+ilovemyfreedom.org,54.5,Fake News,ilovemyfreedom.org,5,5,50,42,19,19,38907,7257,34901,0,75874,1193,0,0,0,0,Very Strong,ilovemyfreedom.org/,Society/Politics,17,13616,40
+informationliberation.com,47.5,Fake News,informationliberation.com,5,5.8,,,,,98831,46456,80903,2,,,,,,,,informationliberation.com/,,,,
+jihadwatch.org,17.5,Fake News,jihadwatch.org,7,7.2,74,59,38,38,58064,17762,54680,0,3893141,11052,191,54,7,2,Very Strong,jihadwatch.org/,Society/Religion and Spirituality,37,154542,37
+joeforamerica.com,7.5,Fake News,joeforamerica.com,5,5.6,57,47,27,27,137094,27964,128819,2,343536,1815,1,1,0,0,Very Strong,joeforamerica.com/,Society/Politics,27,47868,41
+judicialwatch.org,52,Fake News,judicialwatch.org,7,7.1,77,54,44,44,,2418,9746,1,1131204,13891,388,59,21,10,Very Strong,judicialwatch.org/,Society/Politics,43,181152,54
+madworldnews.com,7.5,Fake News,madworldnews.com,6,6.8,77,49,26,26,212111,51868,191306,1,95940,3330,7,2,0,0,Very Strong,madworldnews.com/,News/Media Industry,26,23624,39
+magadailyreport.com,50,Fake News,magadailyreport.com,1,1.6,15,14,3,3,829169,,688811,0,101,35,0,0,0,0,Weak,magadailyreport.com/,Society/History,3,64,11
+nationalenquirer.com,7.5,Fake News,nationalenquirer.com,6,7,77,52,60,60,56283,20629,47583,1,463818,9937,145,60,3,1,Very Strong,nationalenquirer.com/,Society/People,60,117723,48
+newspunch.com,0,Fake News,newspunch.com,6,6.8,84,42,21,21,38024,9585,32192,1,1186807,9551,416,21,0,0,Very Strong,newspunch.com/,News/Magazines and E-zines,20,114627,64
+occupydemocrats.com,20,Fake News,occupydemocrats.com,5,5.8,61,46,17,17,1502624,384047,1319765,0,102221,2642,43,17,0,0,Very Strong,occupydemocrats.com/,Society/Politics,16,11133,37
+patriotbeacon.com,52,Fake News,patriotbeacon.com,3,2.9,29,24,5,5,,,,0,127,47,0,0,0,0,Weak,patriotbeacon.com/,Home/Rural Living,5,86,8
+patrioticexpress.com,29.5,Fake News,patrioticexpress.com,3,3.2,34,25,9,9,3989392,,3564540,5,885,132,0,0,0,0,Moderate,patrioticexpress.com/,Reference/Education,9,25785,23
+patriotjournal.org,49.5,Fake News,patriotjournal.org,3,2.9,26,28,11,11,144745,32761,156630,1,12727,222,0,0,0,0,Moderate,patriotjournal.org/,Society/Politics,11,9609,25
+powderedwigsociety.com,12.5,Fake News,powderedwigsociety.com,4,4.2,41,37,12,12,1357096,249269,1193195,0,13053,533,0,0,1,1,Strong,powderedwigsociety.com/,News/Media Industry,11,16321,28
+progresstribune.com,7.5,Fake News,progresstribune.com,3,3.2,33,27,2,2,3105174,,2686181,3,2757,78,0,0,0,0,Weak,progresstribune.com/,Arts/Television,2,2494,16
+puppetstringnews.com,7.5,Fake News,puppetstringnews.com,4,4.1,42,33,12,12,488843,114861,404295,1,7882,564,0,0,0,0,Strong,puppetstringnews.com/,News/Media Industry,11,14424,31
+react365.com,15,Fake News,react365.com,4,3.9,42,31,14,14,940165,498508,779412,10,4828,469,10,2,0,0,Moderate,react365.com/,Business/Publishing and Printing,14,623,29
+redstatewatcher.com,7.5,Fake News,redstatewatcher.com,5,5.2,54,43,15,15,105279,20659,131128,1,41280,1297,2,1,0,0,Very Strong,redstatewatcher.com/,Society/Issues,15,148801,42
+redstatewave.com,7.5,Fake News,redstatewave.com,3,2.8,31,21,12,12,,,,0,254,32,0,0,0,0,Weak,redstatewave.com/,Society/Politics,12,9200,11
+rightwingnews.com,32.5,Fake News,rightwingnews.com,6,6.5,,,,,446005,133375,399052,0,,,,,,,,rightwingnews.com/,,,,
+rt.com,32.5,Fake News,rt.com,8,8.9,94,71,68,68,270,,261,1,30499164,140288,34031,807,4432,155,Very Strong,rt.com/,News/Media Industry,67,3198531,82
+sputniknews.com,7.5,Fake News,sputniknews.com,8,8.5,92,66,65,65,588,,615,1,17054422,74874,16572,470,2585,118,Very Strong,sputniknews.com/,News/Media Industry,60,4983997,83
+svijmedia.com,7.5,Fake News,svijmedia.com,2,1.7,18,14,11,11,11122794,,10016112,3,286,16,0,0,0,0,Weak,svijmedia.com/,News/Media Industry,11,260,12
+teaparty.org,12.5,Fake News,teaparty.org,6,6,64,48,22,22,60167,11585,54724,1,130957,3650,75,28,3,2,Very Strong,teaparty.org/,Society/Politics,20,57536,38
+tmn.today,7.5,Fake News,tmn.today,4,4.2,43,35,11,11,402842,79862,358207,1,2950,497,0,0,0,0,Moderate,tmn.today/,Science/Astronomy,10,7972,28
+tmn.today,7.5,Fake News,tmn.today,4,4.2,43,35,11,11,402842,79862,358207,1,2950,497,0,0,0,0,Moderate,tmn.today/,Science/Astronomy,10,7972,28
+theamericanmirror.com,22,Fake News,theamericanmirror.com,5,5.8,62,46,22,22,34972,4739,25963,4,275778,4167,3,2,0,0,Very Strong,theamericanmirror.com/,News/Weblogs,20,6681,39
+dcclothesline.com,7.5,Fake News,dcclothesline.com,5,5.7,,,,,114628,27569,114909,2,,,,,,,,dcclothesline.com/,,,,
+theduran.com,17.5,Fake News,theduran.com,6,6.3,66,51,26,26,101409,,91288,0,1193447,4266,7,3,0,0,Very Strong,theduran.com/,Society/Politics,25,101943,54
+thefederalistpapers.org,40,Fake News,thefederalistpapers.org,6,6.1,63,50,25,25,60666,10995,51403,1,507705,4531,127,15,6,2,Very Strong,thefederalistpapers.org/,News/Media Industry,24,64030,42
+freetelegraph.com,42,Fake News,freetelegraph.com,3,3.6,35,31,11,11,6691758,,6134034,1,276,75,4,1,0,0,Weak,freetelegraph.com/,Society/Issues,11,2460,24
+thegatewaypundit.com,20,Fake News,thegatewaypundit.com,7,7,76,54,28,28,6855,1509,6168,2,4997224,15552,146,28,8,2,Very Strong,thegatewaypundit.com/,Society/Politics,25,253283,51
+thegoldwater.com,7.5,Fake News,thegoldwater.com,5,5,52,41,13,13,458479,142610,389550,2,96778,2188,7,3,0,0,Very Strong,thegoldwater.com/,Business/Information Technology,12,58804,37
+thehornnews.com,12.5,Fake News,thehornnews.com,5,4.9,50,41,21,21,82497,15503,80056,1,21277,1106,1,1,0,0,Very Strong,thehornnews.com/,Society/Politics,20,11399,35
+thelibertyeagle.com,30,Fake News,thelibertyeagle.com,4,3.9,40,32,9,9,753356,252602,638321,0,2053,276,2,1,0,0,Moderate,thelibertyeagle.com/,News/Media Industry,9,762,11
+toptopic.club,7.5,Fake News,toptopic.club,1,1.4,16,9,11,11,2030030,,1786040,6,82,12,0,0,0,0,Weak,toptopic.club/,Society/Politics,11,214,8
+trump.news,5,Fake News,trump.news,4,4.5,39,45,16,16,876517,223841,805391,0,41843,918,0,0,0,0,Strong,trump.news/,Health/News and Media,16,977,17
+truthfeednews.com,7.5,Fake News,truthfeednews.com,4,4.8,49,40,16,16,1280715,503100,1061209,4,29421,977,0,0,0,0,Strong,truthfeednews.com/,Society/Politics,16,22279,38
+truthuncensored.net,7.5,Fake News,truthuncensored.net,4,4.5,44,39,14,14,,,,0,18480,828,1,1,0,0,Strong,truthuncensored.net/,Science/Social Sciences,14,30129,31
+uschronicle.com,57.5,Fake News,uschronicle.com,3,3.7,36,33,12,12,681232,247964,569183,4,8462,263,3,2,0,0,Moderate,uschronicle.com/,Games/Party Games,12,562,19
+usareally.com,7.5,Fake News,usareally.com,4,4.4,45,37,24,24,1209357,486309,1131304,1,10550,476,1,1,0,0,Moderate,usareally.com/,Society/Paranormal,24,3626,39
+usnationalnews.org,29.5,Fake News,usnationalnews.org,2,1.9,19,17,12,12,1114051,,1086819,2,245,30,0,0,0,0,Weak,usnationalnews.org/,News/Media Industry,12,2842,18
+voiceofeurope.com,29.5,Fake News,voiceofeurope.com,5,5.6,57,47,25,25,38022,28248,34988,1,213635,3585,27,2,1,1,Very Strong,voiceofeurope.com/,Society/Paranormal,24,21365,50
+webdaily.com,52,Fake News,webdaily.com,3,3,28,27,6,6,,,,0,328,97,0,0,0,0,Weak,webdaily.com/,News/Media Industry,6,450,9
+wnd.com,17.5,Fake News,wnd.com,7,8,87,61,65,65,,1109,5358,1,8357363,42636,1743,240,136,17,Very Strong,wnd.com/,Society/Politics,64,650741,64
+wokesloth.com,39.5,Fake News,wokesloth.com,4,4.3,44,35,15,15,23110,6694,18295,1,17272,761,2,1,0,0,Strong,wokesloth.com/,Society/Activism,14,9349,33
+dailyworldupdate.us,7.5,Satire,dailyworldupdate.us,2,2.3,25,17,7,7,14251698,,13051901,0,228,21,0,0,0,0,Weak,dailyworldupdate.us/,News/Media Industry,7,120,16
+huzlers.com,0,Satire,huzlers.com,5,5.8,,,,,187958,184261,151827,1,,,,,,,,huzlers.com/,,,,
+worldnewsdailyreport.com,7.5,Satire,worldnewsdailyreport.com,6,7,76,53,20,20,51747,45746,42485,2,75749,6067,56,19,1,1,Very Strong,worldnewsdailyreport.com/,Health,18,685641,48
+americaslastlineofdefense.org,7.5,UNS,americaslastlineofdefense.org,2,1.8,18,15,11,11,,,,0,76,13,0,0,0,0,Weak,americaslastlineofdefense.org/,News/Media Industry,11,30,7
+attitude.co.uk,70,UNS,attitude.co.uk,6,7,75,54,44,44,149012,,124446,1,158282,5842,56,23,13,3,Very Strong,attitude.co.uk/,News/Media Industry,44,93642,37
+breakingnews247.net,7.5,UNS,breakingnews247.net,3,3.4,37,26,6,6,5774110,,5352042,10,415,136,8,1,0,0,Moderate,breakingnews247.net/,Society/Politics,6,746,13
+breakingnews365.net,7.5,UNS,breakingnews365.net,3,3.3,37,25,7,7,3064514,,2567351,10,875,183,2,1,0,0,Moderate,breakingnews365.net/,Society/Paranormal,7,481,16
+cbinfo24.com,7.5,UNS,cbinfo24.com,2,1.6,14,16,12,12,,,,8,112,13,0,0,0,0,Weak,cbinfo24.com/,News/Media Industry,12,222,7
+channel22news.com,7.5,UNS,channel22news.com,3,3.2,30,29,3,3,1732168,346418,1414974,0,506,188,0,0,0,0,Moderate,channel22news.com/,Home/Cooking,2,230,5
+channel23news.com,7.5,UNS,channel23news.com,4,3.8,39,32,11,11,3081253,,2665720,0,884,289,1,1,0,0,Moderate,channel23news.com/,News/Media Industry,11,5166,21
+channel24news.com,7.5,UNS,channel24news.com,3,3.4,33,30,6,6,1269912,370145,1034365,0,888,223,0,0,0,0,Moderate,channel24news.com/,Society/Politics,6,317,8
+channel28news.com,7.5,UNS,channel28news.com,3,3.3,34,28,3,3,2612711,,2147034,0,320,152,0,0,0,0,Moderate,channel28news.com/,Society/Religion and Spirituality,3,139,6
+channel33news.com,7.5,UNS,channel33news.com,0,0.3,1,5,0,0,,,,0,16,1,0,0,0,0,Very Weak,channel33news.com/,,0,52,0
+channel34news.com,7.5,UNS,channel34news.com,1,0.6,3,8,0,0,,,,0,25,4,0,0,0,0,Very Weak,channel34news.com/,,0,891,0
+channel45news.com,7.5,UNS,channel45news.com,3,3.6,35,32,8,8,453965,78818,384249,0,2986,291,0,0,0,0,Moderate,channel45news.com/,News/Newspapers,8,1083,13
+express.co.uk,72,UNS,express.co.uk,8,8.5,93,65,66,66,986,732,773,1,16778341,124216,19316,681,818,99,Very Strong,express.co.uk/,News/Newspapers,66,2189469,75
+fbnewscycle.com,32.5,UNS,fbnewscycle.com,3,3.3,,,,,9056705,0,8085452,4,,,,,,,,fbnewscycle.com/,,,,
+gellerreport.com,12.5,UNS,gellerreport.com,6,6,67,45,20,20,61823,11347,56846,5,1420077,4403,19,8,0,0,Very Strong,gellerreport.com/,Society/Religion and Spirituality,18,166007,52
+greenmedinfo.com,17.5,UNS,greenmedinfo.com,6,6.9,,,,,39919,13707,36158,2,,,,,,,,greenmedinfo.com/,,,,
+higherperspectives.com,22,UNS,higherperspectives.com,6,6.2,67,47,17,17,,6079,9716,1,56556,3675,42,11,0,0,Very Strong,higherperspectives.com/,Society/Sexuality,16,28064,44
+mminfo24.com,7.5,UNS,mminfo24.com,2,1.7,15,17,11,11,,,,9,19,13,0,0,0,0,Weak,mminfo24.com/,News/Media Industry,11,180,11
+news4ktla.com,20,UNS,news4ktla.com,3,3.6,37,29,11,11,5270443,,5112202,4,398,98,10,2,0,0,Weak,news4ktla.com/,Society/Issues,11,157,23
+redstate.com,42,UNS,redstate.com,7,7.3,77,58,29,29,23373,3948,21924,1,6208621,15913,596,83,97,9,Very Strong,redstate.com/,Society/Politics,27,185506,47
+rightwingtribune.com,47.5,UNS,rightwingtribune.com,4,3.8,34,36,19,19,186614,55211,218329,0,272477,250,0,0,0,0,Moderate,rightwingtribune.com/,Society/Religion and Spirituality,19,5250,34
+rwnofficial.com,32.5,UNS,rwnofficial.com,4,4.1,38,37,14,14,2378644,541454,2146330,0,106494,486,0,0,0,0,Moderate,rwnofficial.com/,Society/Politics,13,5706,25
+themindunleashed.com,0,UNS,themindunleashed.com,6,6.2,65,49,18,18,39965,20553,31240,1,251603,5150,40,11,1,1,Very Strong,themindunleashed.com/,Society/Politics,17,39375,40
+trend-news.com,7.5,UNS,trend-news.com,3,3.1,35,23,6,6,2744797,323936,2262088,3,2111,309,0,0,0,0,Moderate,trend-news.com/,Computers/Open Source,6,740,16
+trumpbetrayed.us,7.5,UNS,trumpbetrayed.us,2,2.2,,,,,6296145,0,5659528,0,,,,,,,,trumpbetrayed.us/,,,,
+universaleinfo.com,7.5,UNS,universaleinfo.com,2,1.6,14,16,11,11,,,,2,40,18,2,1,0,0,Weak,universaleinfo.com/,News/Media Industry,10,379,6
+ustruthwire.com,50,UNS,ustruthwire.com,2,2.4,22,23,2,2,,,,2,332,38,0,0,0,0,Weak,ustruthwire.com/,Computers/Shopping,2,755,7
+wearethellod.com,7.5,UNS,wearethellod.com,2,1.9,,,,,995698,0,866094,0,,,,,,,,wearethellod.com/,,,,
+conservativetribune.com,37.5,UNS,conservativetribune.com,6,6.8,74,52,15,15,2027850,,2203662,1,255665,4356,25,7,0,0,Very Strong,conservativetribune.com/,Society/Politics,14,66165,34
+dennismichaellynch.com,62.5,UNS,dennismichaellynch.com,5,5.3,54,45,20,20,219282,31995,220557,0,40460,1298,3,2,0,0,Very Strong,dennismichaellynch.com/,Society/Religion and Spirituality,20,31992,29
+mintpressnews.com,52,UNS,mintpressnews.com,6,6.9,74,53,29,29,63588,25792,52352,1,1914601,13029,1883,95,12,2,Very Strong,mintpressnews.com/,Society/Politics,25,375895,57
+ruptly.tv,25,UNS,ruptly.tv,6,5.9,60,50,37,37,57109,,59784,3,1284687,2114,12,4,0,0,Very Strong,ruptly.tv/,News/Media Industry,36,71554,45
+thepoke.co.uk,52,UNS,thepoke.co.uk,6,6.6,73,49,20,20,32749,,30430,1,180808,6481,42,16,5,4,Very Strong,thepoke.co.uk/,Arts/Weblogs,18,36850,37
+wikileaks.com,44.5,UNS,wikileaks.com,5,5.9,61,48,20,20,576227,277276,571679,1,31930,2065,18,4,0,0,Very Strong,wikileaks.com/,Science/Math,20,328039,34
+bbc.co.uk,95,UNS,bbc.co.uk,9,9.4,96,78,96,96,100,,102,1,1021705600,748222,6267085,5528,1119474,1710,Very Strong,bbc.co.uk/,Arts/Television,89,16462553,98
+armytimes.com,100,UNS,armytimes.com,6,6.8,73,52,53,53,57462,13031,46855,0,1922045,18233,811,149,2742,46,Very Strong,armytimes.com/,News/Media Industry,52,3375057,54
+msnbc.com,82.5,UNS,msnbc.com,8,8.5,90,67,52,52,2785,680,2504,1,15070057,82944,52814,1136,1219,89,Very Strong,msnbc.com/,News,41,675838,64
+news.sky.com,82.5,UNS,news.sky.com,8,8.7,93,69,71,71,1661,,1598,1,11834848,82406,17660,522,15641,75,Very Strong,news.sky.com/,News,69,508637,74
+news.yahoo.com,87.5,UNS,news.yahoo.com,9,9.2,95,76,80,80,9,7,8,1,63063331,147016,23690,1095,4309,131,Very Strong,news.yahoo.com/,News,74,2110239,61
+siliconvalley.com,100,UNS,siliconvalley.com,6,6.5,69,51,55,55,413615,196935,348869,1,2255005,10492,1125,156,86,13,Very Strong,siliconvalley.com/,Business/Information Technology,54,343372,53
+ansa.it,95,UNS,ansa.it,8,8.2,91,61,72,72,2233,,2188,1,47274795,46398,52119,223,388129,243,Very Strong,ansa.it/,News,70,1548721,77
+ilsole24ore.com,100,UNS,ilsole24ore.com,7,8,91,58,74,74,3291,,2966,2,161167835,54547,5063,245,17657,262,Very Strong,ilsole24ore.com/,Business/News and Media,71,2889657,77
+repubblica.it,82.5,UNS,repubblica.it,8,8.5,93,65,77,77,526,,548,2,44435923,96814,113701,716,276835,712,Very Strong,repubblica.it/,News/Newspapers,74,4019597,70
+corriere.it,82.5,UNS,corriere.it,8,8.4,92,63,63,63,896,,871,1,33822918,78971,5468,490,14430,382,Very Strong,corriere.it/,News/Newspapers,54,3889612,73
+belfasttelegraph.co.uk,100,UNS,belfasttelegraph.co.uk,7,7.9,89,57,57,57,29698,,26393,1,1598766,43081,3523,267,148,26,Very Strong,belfasttelegraph.co.uk/,News/Newspapers,57,345768,46
+channel4.com,95,UNS,channel4.com,8,8.3,93,61,68,68,3821,,3625,8,6112215,78928,190958,712,433,101,Very Strong,channel4.com/,Arts/Television,64,740321,64
+mirror.co.uk,87.5,UNS,mirror.co.uk,8,8.6,93,67,75,75,1618,,1289,1,23967682,153685,17538,697,936,113,Very Strong,mirror.co.uk/,News/Newspapers,74,3680501,69
+newstatesman.com,100,UNS,newstatesman.com,7,7.6,,,,,21124,0,16381,1,,,,,,,,newstatesman.com/,,,,
+thesun.co.uk,95,UNS,thesun.co.uk,8,8.6,94,66,69,69,1419,,1156,1,27681327,134950,20299,531,964,64,Very Strong,thesun.co.uk/,Business/Arts and Entertainment,68,1653544,76
+telegraph.co.uk,87.5,UNS,telegraph.co.uk,8,9.1,94,74,85,85,799,,643,1,61575089,438820,910703,2301,7590,379,Very Strong,telegraph.co.uk/,News/Newspapers,83,3887022,80
+scotsman.com,92.5,UNS,scotsman.com,7,7.9,88,58,64,64,21559,,18027,1,6010042,57205,10105,544,2568,63,Very Strong,scotsman.com/,News/Newspapers,62,1152753,64
+spectator.co.uk,80,UNS,spectator.co.uk,7,7.6,85,55,65,65,20906,,18196,1,4701425,34496,7024,337,48,27,Very Strong,spectator.co.uk/,News/Magazines and E-zines,64,1314463,62
+au.news.yahoo.com,87.5,UNS,au.news.yahoo.com,8,8.8,95,68,42,42,9,7,8,1,2773722,31886,2759,226,893,57,Very Strong,au.news.yahoo.com/,News/Newspapers,40,433199,40
+
